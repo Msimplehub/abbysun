@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T10:42:51.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="EQrtAPbZK0r10-i1rHFX" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T10:45:48.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="OjEmXQgdyL1gdPf8CIoQ" version="14.7.2" type="github">
   <diagram id="5qeITncGvitP4Tj_OZvr" name="Page-1">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -358,7 +358,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-122" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
-          <mxGeometry x="45" y="290" width="10" height="280" as="geometry" />
+          <mxGeometry x="45" y="290" width="10" height="330" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-125" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
           <mxGeometry x="50" y="350" width="10" height="40" as="geometry" />
@@ -383,7 +383,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-129" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
-          <mxGeometry x="52" y="500" width="10" height="40" as="geometry" />
+          <mxGeometry x="52" y="500" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-130" value="3、维护置家顾问信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="bynKXbRoEODD4A2bgc4v-118" target="bynKXbRoEODD4A2bgc4v-129" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -395,22 +395,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-131" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
-          <mxGeometry x="44" y="600" width="10" height="200" as="geometry" />
+          <mxGeometry x="44" y="710" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-133" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="bynKXbRoEODD4A2bgc4v-118" source="bynKXbRoEODD4A2bgc4v-131" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-730" y="790" as="targetPoint" />
+            <mxPoint x="-730" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-134" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
-          <mxGeometry x="51" y="660" width="10" height="40" as="geometry" />
+          <mxGeometry x="51" y="770" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-135" value="1、生成二维码，通知置家顾问" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="bynKXbRoEODD4A2bgc4v-118" target="bynKXbRoEODD4A2bgc4v-134" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="56" y="640" as="sourcePoint" />
+            <mxPoint x="56" y="750" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="100" y="640" />
-              <mxPoint x="100" y="660" />
+              <mxPoint x="100" y="750" />
+              <mxPoint x="100" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xGfSyIfJJWPvVsahEEKP-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="bynKXbRoEODD4A2bgc4v-118">
+          <mxGeometry x="51" y="570" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xGfSyIfJJWPvVsahEEKP-2" value="4、维护开盘礼品包信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="xGfSyIfJJWPvVsahEEKP-1" parent="bynKXbRoEODD4A2bgc4v-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="56" y="550" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="100" y="550" />
+              <mxPoint x="100" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -427,13 +439,13 @@
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-124" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="119.16666666666674" y="2676" as="targetPoint" />
-            <mxPoint x="905" y="2676" as="sourcePoint" />
+            <mxPoint x="119.16666666666674" y="2786" as="targetPoint" />
+            <mxPoint x="905" y="2786" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-132" value="开盘" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" source="bynKXbRoEODD4A2bgc4v-110" target="bynKXbRoEODD4A2bgc4v-131" edge="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-132" value="开盘" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="1" target="bynKXbRoEODD4A2bgc4v-131" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="834" y="2720" as="sourcePoint" />
+            <mxPoint x="119.5" y="2830" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-136" value="&lt;font style=&quot;font-size: 18px&quot;&gt;开盘准备&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
