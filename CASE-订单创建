@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T11:20:03.166Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="IWnF_98Gida5GB-embVC" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T11:29:10.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="mRPVB4cZmyV1Az5wi-pW" version="14.7.2" type="github">
   <diagram id="5qeITncGvitP4Tj_OZvr" name="Page-1">
-    <mxGraphModel dx="541" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,7 +288,7 @@
           <mxGeometry x="1840" y="90" width="100" height="1860" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bynKXbRoEODD4A2bgc4v-61" vertex="1">
-          <mxGeometry x="45" y="1150" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="1148" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-70" value="Check：库存" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" parent="bynKXbRoEODD4A2bgc4v-61" target="bynKXbRoEODD4A2bgc4v-69" edge="1">
           <mxGeometry relative="1" as="geometry">
