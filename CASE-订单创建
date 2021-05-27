@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T09:03:14.164Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="W-bXPGmPq4ClNg6O33MU" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T09:03:51.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="-yjmxWyC844-Okd7ufZu" version="14.7.2" type="github">
   <diagram id="5qeITncGvitP4Tj_OZvr" name="Page-1">
     <mxGraphModel dx="1901" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="bynKXbRoEODD4A2bgc4v-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="bynKXbRoEODD4A2bgc4v-6">
           <mxGeometry x="50" y="1190" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-68" value="2、库存锁定，扣减" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="bynKXbRoEODD4A2bgc4v-67" parent="bynKXbRoEODD4A2bgc4v-6">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-68" value="2、库存锁定，扣减（可以不需要，做规划）" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="bynKXbRoEODD4A2bgc4v-67" parent="bynKXbRoEODD4A2bgc4v-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="1170" as="sourcePoint" />
             <Array as="points">
