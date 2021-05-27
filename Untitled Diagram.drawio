@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T06:38:19.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="HC5AAOJGASLmi5keutrn" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T06:41:09.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PDc-eu7odN-AeWcB7_wL" version="14.7.2" type="github">
   <diagram id="6mHEtAGcMzhpT5VHvflu" name="Page-1">
     <mxGraphModel dx="1773" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -289,7 +289,7 @@
           <mxGeometry x="130" y="690" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-84" value="研发平台" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="-170" width="130" height="200" as="geometry" />
+          <mxGeometry x="-730" y="-170" width="130" height="260" as="geometry" />
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-86" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u0kvqzSaH0CHyrP6EFvl-84">
           <mxGeometry x="10" y="50" width="100" height="20" as="geometry" />
@@ -298,7 +298,7 @@
           <mxGeometry x="-730" y="130" width="130" height="780" as="geometry" />
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-88" value="WEB STORME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="-80" width="100" height="20" as="geometry" />
+          <mxGeometry x="-720" y="-80" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-90" value="通知渠道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="170" width="100" height="20" as="geometry" />
@@ -323,6 +323,24 @@
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-97" value="数据打点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-720" y="450" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-109" value="DevOps" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-170" width="130" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-110" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u0kvqzSaH0CHyrP6EFvl-109">
+          <mxGeometry x="10" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-111" value="WEB STORME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-80" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-112" value="部署" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="150" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-113" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="u0kvqzSaH0CHyrP6EFvl-112">
+          <mxGeometry x="20" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-114" value="WEB STORME" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
