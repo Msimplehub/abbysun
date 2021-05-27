@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T09:04:00.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gcqueemQD9DUWDxK7n7v" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T09:04:28.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2p_wEyOkM8Y6znF8qyGd" version="14.7.2" type="github">
   <diagram id="5qeITncGvitP4Tj_OZvr" name="Page-1">
     <mxGraphModel dx="1901" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
             <mxPoint x="1885" y="1296" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-73" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="bynKXbRoEODD4A2bgc4v-72" parent="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-73" value="拉起线上支付" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="bynKXbRoEODD4A2bgc4v-72" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="1340" as="sourcePoint" />
           </mxGeometry>
