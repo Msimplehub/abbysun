@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T12:46:27.161Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="70tvjntj91ra8puOQEbi" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T01:40:17.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NMEyX-plEUeKGSDgOvrl" version="14.7.2" type="github">
   <diagram id="6mHEtAGcMzhpT5VHvflu" name="Page-1">
-    <mxGraphModel dx="2404" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,8 @@
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-10" value="ingress" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-490" y="140" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="u0kvqzSaH0CHyrP6EFvl-11" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="230" width="780" height="190" as="geometry" />
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-11" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="220" width="780" height="200" as="geometry" />
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-98" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" source="u0kvqzSaH0CHyrP6EFvl-12" target="u0kvqzSaH0CHyrP6EFvl-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -133,8 +133,10 @@
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-22" value="API-SIX" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-149" y="53" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u0kvqzSaH0CHyrP6EFvl-155" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" source="u0kvqzSaH0CHyrP6EFvl-23" target="u0kvqzSaH0CHyrP6EFvl-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-155" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" source="u0kvqzSaH0CHyrP6EFvl-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-148" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-23" value="Ingress-GW" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-190" y="145" width="80" height="40" as="geometry" />
@@ -326,7 +328,7 @@
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-82" value="存储" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="680" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u0kvqzSaH0CHyrP6EFvl-84" value="研发平台" style="swimlane;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-84" value="研发平台" style="swimlane;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="-200" width="130" height="290" as="geometry">
             <mxRectangle x="-730" y="-200" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
@@ -334,11 +336,11 @@
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-86" value="IDEA" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="u0kvqzSaH0CHyrP6EFvl-84" vertex="1">
           <mxGeometry x="10" y="50" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-88" value="WEB STORME" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="u0kvqzSaH0CHyrP6EFvl-84" vertex="1">
+          <mxGeometry x="10" y="95" width="100" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-85" value="第三方接入" style="swimlane;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-730" y="130" width="130" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="u0kvqzSaH0CHyrP6EFvl-88" value="WEB STORME" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="-80" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-90" value="通知渠道" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-720" y="170" width="100" height="20" as="geometry" />
@@ -453,6 +455,9 @@
         </mxCell>
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-144" value="Kafka" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="-110" y="580" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gcn5ExoGnsoE11wJ_1Rx-2" value="Sonar代码质检" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="-65" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
