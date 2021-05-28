@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T01:40:17.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NMEyX-plEUeKGSDgOvrl" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T01:40:26.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="aOBTT1xBH2inWPESxpwD" version="14.7.2" type="github">
   <diagram id="6mHEtAGcMzhpT5VHvflu" name="Page-1">
     <mxGraphModel dx="2253" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,7 +328,7 @@
         <mxCell id="u0kvqzSaH0CHyrP6EFvl-82" value="存储" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="680" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u0kvqzSaH0CHyrP6EFvl-84" value="研发平台" style="swimlane;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="u0kvqzSaH0CHyrP6EFvl-84" value="研发工具" style="swimlane;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="-200" width="130" height="290" as="geometry">
             <mxRectangle x="-730" y="-200" width="80" height="23" as="alternateBounds" />
           </mxGeometry>
