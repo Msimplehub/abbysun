@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T13:15:31.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SVufM59oXCn-ybGjXoLT" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T13:15:46.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="w_2ZPGqG0vTaWhP_khB0" version="14.7.2" type="github">
   <diagram id="5qeITncGvitP4Tj_OZvr" name="Page-1">
     <mxGraphModel dx="2404" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="bynKXbRoEODD4A2bgc4v-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-6" vertex="1">
           <mxGeometry x="45" y="950" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-51" value="礼包具体明细（ID）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-6" target="bynKXbRoEODD4A2bgc4v-50" edge="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-51" value="权益项具体明细（ID）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-6" target="bynKXbRoEODD4A2bgc4v-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-170" y="950" as="sourcePoint" />
           </mxGeometry>
