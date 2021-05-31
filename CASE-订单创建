@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T11:59:47.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GuCOFuUeOL0QdxWUB7FY" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T12:00:44.023Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="zmjMJPI5KbZLJeDX8YGg" version="14.7.2" type="github">
   <diagram id="5qeITncGvitP4Tj_OZvr" name="Page-1">
     <mxGraphModel dx="1892" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="140" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-2" value="小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-2" value="小程序" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="90" width="105" height="1880" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-2" vertex="1">
@@ -64,7 +64,7 @@
             <mxPoint x="260" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-6" value="地产服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-6" value="地产服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="90" width="100" height="1810" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-6" vertex="1">
@@ -164,7 +164,7 @@
             <mxPoint x="261.82352941176464" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-15" value="方案服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-15" value="方案服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="670" y="90" width="100" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-15" vertex="1">
@@ -180,7 +180,7 @@
             <mxPoint x="261.82352941176464" y="796" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-21" value="CRM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-21" value="CRM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="980" y="90" width="100" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
@@ -237,7 +237,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-60" value="支付渠道" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-60" value="支付渠道" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1530" y="90" width="100" height="1800" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-60" vertex="1">
@@ -264,7 +264,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-61" value="REDIS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-61" value="REDIS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1840" y="90" width="100" height="1860" as="geometry" />
         </mxCell>
         <mxCell id="bynKXbRoEODD4A2bgc4v-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-61" vertex="1">
@@ -511,7 +511,7 @@
             <mxPoint x="240" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D8PaePrtd88vnKRHlzZj-1" value="用户服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="D8PaePrtd88vnKRHlzZj-1" value="用户服务" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2150" y="90" width="100" height="1500" as="geometry" />
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="D8PaePrtd88vnKRHlzZj-1">
