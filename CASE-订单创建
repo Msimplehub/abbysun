@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T13:06:22.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="zx5K1brK-QBeEfIhGZqX" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T13:07:14.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="81wR-TX6zeKeNKbTlKk6" version="14.7.2" type="github">
   <diagram id="5qeITncGvitP4Tj_OZvr" name="Page-1">
-    <mxGraphModel dx="946" dy="1792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="2415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -595,7 +595,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-18" value="运营管理平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="292.5" y="4220" width="100" height="2310" as="geometry" />
+          <mxGeometry x="292.5" y="3600" width="100" height="2310" as="geometry" />
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="D8PaePrtd88vnKRHlzZj-18">
           <mxGeometry x="45.5" y="110" width="10" height="280" as="geometry" />
@@ -612,20 +612,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-19" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="4220" width="20" height="1090" as="geometry" />
+          <mxGeometry x="80" y="3600" width="20" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-20" value="平台运营管理人员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="4180" width="110" height="20" as="geometry" />
+          <mxGeometry x="35" y="3560" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-22" value="权益池维护（包，券）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="D8PaePrtd88vnKRHlzZj-21" parent="1" source="D8PaePrtd88vnKRHlzZj-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="268" y="4330" as="sourcePoint" />
+            <mxPoint x="268" y="3710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-23" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="88.5" y="4546" as="targetPoint" />
-            <mxPoint x="338" y="4546" as="sourcePoint" />
+            <mxPoint x="88.5" y="3926" as="targetPoint" />
+            <mxPoint x="338" y="3926" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-28" value="维护权益项，新增权益包" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="D8PaePrtd88vnKRHlzZj-27" parent="1" source="bynKXbRoEODD4A2bgc4v-110">
@@ -668,7 +668,7 @@
           <mxGeometry x="60" y="-370" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-44" value="自营商品库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="710" y="4220" width="100" height="1130" as="geometry" />
+          <mxGeometry x="710" y="3600" width="100" height="1130" as="geometry" />
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="D8PaePrtd88vnKRHlzZj-44">
           <mxGeometry x="45" y="160" width="10" height="80" as="geometry" />
@@ -680,7 +680,7 @@
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-47" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;entryX=0.575;entryY=0.102;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="D8PaePrtd88vnKRHlzZj-45" parent="1" target="D8PaePrtd88vnKRHlzZj-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685" y="4456" as="targetPoint" />
+            <mxPoint x="685" y="3836" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D8PaePrtd88vnKRHlzZj-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
