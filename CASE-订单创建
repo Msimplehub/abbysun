@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T13:10:08.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8q8CEbOMu50a8xX7oi2N" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-31T13:11:27.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RT92egFqFbVbFkmXFjXD" version="14.7.2" type="github">
   <diagram id="5qeITncGvitP4Tj_OZvr" name="Page-1">
     <mxGraphModel dx="2404" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         <mxCell id="bynKXbRoEODD4A2bgc4v-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="500" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-5" value="扫描开盘二维码" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" edge="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-5" value="扫描入场二维码" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="180" as="sourcePoint" />
             <mxPoint x="260" y="180" as="targetPoint" />
@@ -360,7 +360,7 @@
         <mxCell id="bynKXbRoEODD4A2bgc4v-125" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
           <mxGeometry x="50" y="650" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-126" value="1、维护开盘基础信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" target="bynKXbRoEODD4A2bgc4v-125" edge="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-126" value="1、维护入场基础信息" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" target="bynKXbRoEODD4A2bgc4v-125" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="630" as="sourcePoint" />
             <Array as="points">
@@ -397,7 +397,7 @@
         <mxCell id="bynKXbRoEODD4A2bgc4v-134" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
           <mxGeometry x="51" y="1070" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bynKXbRoEODD4A2bgc4v-135" value="1、生成二维码（项目ID，开盘actionId,置家顾问ID），通知置家顾问" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" target="bynKXbRoEODD4A2bgc4v-134" edge="1">
+        <mxCell id="bynKXbRoEODD4A2bgc4v-135" value="1、生成二维码（项目ID，入场actionId,置家顾问ID），通知置家顾问" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" target="bynKXbRoEODD4A2bgc4v-134" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="1050" as="sourcePoint" />
             <Array as="points">
@@ -409,7 +409,7 @@
         <mxCell id="xGfSyIfJJWPvVsahEEKP-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
           <mxGeometry x="51" y="860" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xGfSyIfJJWPvVsahEEKP-2" value="4、维护开盘权益包集合" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" target="xGfSyIfJJWPvVsahEEKP-1" edge="1">
+        <mxCell id="xGfSyIfJJWPvVsahEEKP-2" value="4、维护入场权益包集合" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" target="xGfSyIfJJWPvVsahEEKP-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="840" as="sourcePoint" />
             <Array as="points">
@@ -421,7 +421,7 @@
         <mxCell id="xGfSyIfJJWPvVsahEEKP-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" vertex="1">
           <mxGeometry x="51" y="930" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xGfSyIfJJWPvVsahEEKP-4" value="5、维护开盘样例方案集合(?)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" target="xGfSyIfJJWPvVsahEEKP-3" edge="1">
+        <mxCell id="xGfSyIfJJWPvVsahEEKP-4" value="5、维护入场样例方案集合(?)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="bynKXbRoEODD4A2bgc4v-118" target="xGfSyIfJJWPvVsahEEKP-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="56" y="910" as="sourcePoint" />
             <Array as="points">
