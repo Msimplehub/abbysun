@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T03:27:16.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="6gSO17FL9RRuyEahNLqL" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T03:29:59.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="0cUhRJgGMrngv2Xq3uZH" version="14.7.3" type="github">
   <diagram id="M2hjRil8c3Dgf6NWHyBn" name="Page-1">
     <mxGraphModel dx="2178" dy="2059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -393,16 +393,6 @@
         </mxCell>
         <mxCell id="19inqkZGswcby6J2mT9H-167" value="数据生产" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="19inqkZGswcby6J2mT9H-166">
           <mxGeometry x="0.004" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19inqkZGswcby6J2mT9H-168" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;strokeWidth=2;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="19inqkZGswcby6J2mT9H-164">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="19inqkZGswcby6J2mT9H-169" value="生成同步，时延：？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="19inqkZGswcby6J2mT9H-168">
-          <mxGeometry x="0.0185" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
