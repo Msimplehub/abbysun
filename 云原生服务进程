@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T07:20:55.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ttK9d1g_qlkvm_SZsmFU" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-07T07:21:18.757Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="TZj8YtvTPxvj5yOYFtKM" version="14.7.3" type="github">
   <diagram id="uLN11S2eGT5duEdStPEq" name="Page-1">
     <mxGraphModel dx="1426" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2IIkqkpjTRXPxwgHnoPZ-1" value="传统虚拟机部署" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="70" height="60" as="geometry" />
+          <mxGeometry x="90" y="210" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2IIkqkpjTRXPxwgHnoPZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2IIkqkpjTRXPxwgHnoPZ-2" target="2IIkqkpjTRXPxwgHnoPZ-3">
           <mxGeometry relative="1" as="geometry" />
@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2IIkqkpjTRXPxwgHnoPZ-3" value="容器编排化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="210" width="70" height="60" as="geometry" />
+          <mxGeometry x="470" y="210" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2IIkqkpjTRXPxwgHnoPZ-4" value="mesh" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="210" width="70" height="60" as="geometry" />
+          <mxGeometry x="660" y="210" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2IIkqkpjTRXPxwgHnoPZ-8" value="docker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2IIkqkpjTRXPxwgHnoPZ-9" value="k8s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="450" y="290" width="80" height="20" as="geometry" />
+          <mxGeometry x="465" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2IIkqkpjTRXPxwgHnoPZ-10" value="istio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="625" y="290" width="80" height="20" as="geometry" />
+          <mxGeometry x="660" y="290" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
