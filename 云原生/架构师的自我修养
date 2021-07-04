@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T15:57:15.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KP6gXgGMo2vFOkW_KMbV" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T16:02:27.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qqEAyfYI4KXYbvEgrLaX" version="14.8.4" type="github">
   <diagram id="FRhPehkJDK_JRRk_mO3n" name="Page-1">
     <mxGraphModel dx="1568" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="keJsg28KbNsgmDpCtzUC-25" value="多结交高质量的技术伙伴" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="-200" y="270" width="170" height="30" as="geometry" />
+          <mxGeometry x="-189" y="270" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="keJsg28KbNsgmDpCtzUC-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-25" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
           <mxGeometry relative="1" as="geometry">
@@ -112,11 +112,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="keJsg28KbNsgmDpCtzUC-35" value="技术是硬实力，景升需要软实力" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
-          <mxGeometry x="-229" y="490" width="210" height="30" as="geometry" />
+          <mxGeometry x="-229" y="510" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="keJsg28KbNsgmDpCtzUC-36" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-35" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-120" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-40" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-91" y="588" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-41" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-40" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-131" y="602" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
