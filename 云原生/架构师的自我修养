@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T15:33:12.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.8.4" etag="L0EWht_9m4-ubAHlVW15" type="github"><diagram id="FRhPehkJDK_JRRk_mO3n">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-04T15:57:15.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KP6gXgGMo2vFOkW_KMbV" version="14.8.4" type="github">
+  <diagram id="FRhPehkJDK_JRRk_mO3n" name="Page-1">
+    <mxGraphModel dx="1568" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="keJsg28KbNsgmDpCtzUC-5" value="架构师" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="438" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-6" value="知识获取是容易的，但转化为技能是需要过程的" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-7" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-6" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-8" value="持续精进" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="281" y="318" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-9" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="keJsg28KbNsgmDpCtzUC-8" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-11" value="思.悟" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="425" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-11" parent="1" source="keJsg28KbNsgmDpCtzUC-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-13" value="思转化为解决方案" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="600" y="288" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-13" parent="1" source="keJsg28KbNsgmDpCtzUC-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-15" value="悟发展来传道解惑" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-16" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-15" parent="1" source="keJsg28KbNsgmDpCtzUC-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-17" value="对技术既要努力追求，又要用于舍弃" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="keJsg28KbNsgmDpCtzUC-17" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-19" value="场景化，模型化和系统化思考问题" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-20" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-19" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="259" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-21" value="提前预知而非亡羊补牢" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="290" y="448" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="keJsg28KbNsgmDpCtzUC-21" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="492" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-23" value="强烈的好奇心和求知欲" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="320" y="588" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;" edge="1" target="keJsg28KbNsgmDpCtzUC-23" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="460" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-25" value="多结交高质量的技术伙伴" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-200" y="270" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-25" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="284" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-27" value="科学用脑" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-109" y="318" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-27" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-31" value="保持技术的深入性，遵照量变到质变的客观规律" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-309" y="380" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-31" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-33" value="多关注领域发展动向" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-169" y="440" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-34" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-33" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-35" value="技术是硬实力，景升需要软实力" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="-229" y="490" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="keJsg28KbNsgmDpCtzUC-36" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="keJsg28KbNsgmDpCtzUC-35" parent="1" source="keJsg28KbNsgmDpCtzUC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
