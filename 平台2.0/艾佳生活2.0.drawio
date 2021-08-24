@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-24T15:02:23.450Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="8sarD5zV5Sm8EcjALoOs" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-24T15:03:05.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="RdgP5E6PeW1Gv4-kNAcO" version="14.9.8" type="github">
   <diagram id="7zUYwrmOjh2xGsWCl2P7" name="第 1 页">
     <mxGraphModel dx="2719" dy="2351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -661,7 +661,7 @@
         <mxCell id="BQ33ZufyKjomSVJXC-NH-29" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;方案子域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;rotation=90;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry y="767" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BQ33ZufyKjomSVJXC-NH-30" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#3333ff&quot;&gt;&lt;b&gt;交付子域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;rotation=90;" parent="1" vertex="1">
+        <mxCell id="BQ33ZufyKjomSVJXC-NH-30" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#3333ff&quot;&gt;&lt;b&gt;履约子域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="653" y="557" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BQ33ZufyKjomSVJXC-NH-31" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;销售子域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#3333FF;" parent="1" vertex="1">
