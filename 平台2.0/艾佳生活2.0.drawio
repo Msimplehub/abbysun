@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T01:25:00.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="PGAuHrkKNkhUtxDtRDb-" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T01:26:23.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="MNmgSWZLwKIEtdz4EhpM" version="14.9.8" type="github">
   <diagram id="7zUYwrmOjh2xGsWCl2P7" name="第 1 页">
-    <mxGraphModel dx="2015" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3204" dy="2454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -657,7 +657,7 @@
         <mxCell id="BQ33ZufyKjomSVJXC-NH-28" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;商品子域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="183" y="807" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BQ33ZufyKjomSVJXC-NH-29" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;方案子域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;rotation=90;fontColor=#3333FF;" parent="1" vertex="1">
+        <mxCell id="BQ33ZufyKjomSVJXC-NH-29" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;产品子域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;rotation=90;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry y="767" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BQ33ZufyKjomSVJXC-NH-30" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#3333ff&quot;&gt;&lt;b&gt;履约子域&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=12;rotation=90;" parent="1" vertex="1">
