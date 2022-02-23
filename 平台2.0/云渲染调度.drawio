@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T02:10:57.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="g7YDzlnNyNO4Y0ssfU1u" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T02:30:50.089Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Ck535tKuV1xgH7UsdNLt" version="16.6.1" type="github">
   <diagram id="BK4z0_IA1mldwes4Jv54" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="AgTSEnusUw7WsUI41jvv-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="183" y="490" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AgTSEnusUw7WsUI41jvv-10" value="3D Max" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="193" y="480" width="120" height="29" as="geometry" />
+        <mxCell id="AgTSEnusUw7WsUI41jvv-10" value="3D Max" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="193" y="480" width="57" height="29" as="geometry" />
         </mxCell>
         <mxCell id="AgTSEnusUw7WsUI41jvv-11" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="165" height="100" as="geometry" />
@@ -73,7 +73,7 @@
         <mxCell id="AgTSEnusUw7WsUI41jvv-24" value="任务" style="swimlane;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="200" width="172" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="AgTSEnusUw7WsUI41jvv-25" value="任务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AgTSEnusUw7WsUI41jvv-24">
+        <mxCell id="AgTSEnusUw7WsUI41jvv-25" value="任务" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="AgTSEnusUw7WsUI41jvv-24">
           <mxGeometry x="10" y="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AgTSEnusUw7WsUI41jvv-26" value="优先级" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="AgTSEnusUw7WsUI41jvv-33" value="共享盘" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="163" y="344" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTSEnusUw7WsUI41jvv-36" value="agent" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="251" y="480" width="57" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
