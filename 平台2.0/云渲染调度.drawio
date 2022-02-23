@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T03:29:17.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="NVnFifQi8RzDB3uZq-Ko" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T03:29:49.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FhrdXizH8qd95KPIOLx3" version="16.6.1" type="github">
   <diagram id="BK4z0_IA1mldwes4Jv54" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,16 +163,16 @@
         <mxCell id="AgTSEnusUw7WsUI41jvv-57" value="TCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="616" y="90" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AgTSEnusUw7WsUI41jvv-59" value="虚拟化" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="AgTSEnusUw7WsUI41jvv-59" value="虚拟化" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="430" width="50" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="AgTSEnusUw7WsUI41jvv-60" value="物理机" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="AgTSEnusUw7WsUI41jvv-60" value="物理机" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="585" width="50" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="AgTSEnusUw7WsUI41jvv-62" value="调度" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="AgTSEnusUw7WsUI41jvv-62" value="调度" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="50" height="268" as="geometry" />
         </mxCell>
-        <mxCell id="AgTSEnusUw7WsUI41jvv-63" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="AgTSEnusUw7WsUI41jvv-63" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="80" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
