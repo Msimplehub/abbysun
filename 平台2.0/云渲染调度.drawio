@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T09:19:54.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="DsSQ0bpFEqh-iglMz3zp" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-23T10:33:05.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Gup9ABwaspZvNN5qmBhq" version="16.6.1" type="github">
   <diagram id="BK4z0_IA1mldwes4Jv54" name="Page-1">
     <mxGraphModel dx="1678" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,6 +177,24 @@
         </mxCell>
         <mxCell id="AgTSEnusUw7WsUI41jvv-64" value="回调" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="344" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTSEnusUw7WsUI41jvv-69" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1921" y="669" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTSEnusUw7WsUI41jvv-72" value="物理机集群" style="swimlane;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1905" y="310" width="125" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTSEnusUw7WsUI41jvv-73" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;dashed=1;" vertex="1" parent="AgTSEnusUw7WsUI41jvv-72">
+          <mxGeometry x="15" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTSEnusUw7WsUI41jvv-70" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;dashed=1;" vertex="1" parent="AgTSEnusUw7WsUI41jvv-72">
+          <mxGeometry x="15" y="150" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTSEnusUw7WsUI41jvv-71" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;dashed=1;" vertex="1" parent="AgTSEnusUw7WsUI41jvv-72">
+          <mxGeometry x="12.5" y="261" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AgTSEnusUw7WsUI41jvv-75" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="183" width="360" height="607" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
