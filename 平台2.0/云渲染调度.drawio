@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T03:21:22.160Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Sd7D3p__of5ZNlFecm77" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T03:21:59.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5iKQ1m-bNhruBVhxq_9m" version="16.6.2" type="github">
   <diagram id="BK4z0_IA1mldwes4Jv54" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -220,7 +220,7 @@
         <mxCell id="1SuB4GNJD6Qb84rThnza-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="290" as="sourcePoint" />
-            <mxPoint x="260" y="290" as="targetPoint" />
+            <mxPoint x="250" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1SuB4GNJD6Qb84rThnza-11" value="自动化部署" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
