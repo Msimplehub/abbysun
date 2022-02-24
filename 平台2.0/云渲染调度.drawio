@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T03:25:11.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fdMRmwZ2DA_1mLjgYp6C" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T03:25:38.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="PX2ljSxr4OEKPa-yybiR" version="16.6.2" type="github">
   <diagram id="BK4z0_IA1mldwes4Jv54" name="Page-1">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="1SuB4GNJD6Qb84rThnza-1" value="调度" style="swimlane;dashed=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="420" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="1SuB4GNJD6Qb84rThnza-2" value="任务分配" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1SuB4GNJD6Qb84rThnza-1">
+        <mxCell id="1SuB4GNJD6Qb84rThnza-2" value="任务|资源分配" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1SuB4GNJD6Qb84rThnza-1">
           <mxGeometry x="153" y="35" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="1SuB4GNJD6Qb84rThnza-3" value="优先级下发" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
