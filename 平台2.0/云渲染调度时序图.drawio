@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T09:52:59.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5CJGnShcHcEHc9Y-yeFp" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T09:53:46.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Tj_DirYoT0n5lOqnFyu4" version="16.6.2" type="github">
   <diagram id="GCqSC2SD_qlKMxx8C9cN" name="Page-1">
     <mxGraphModel dx="2037" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -172,14 +172,15 @@
         <mxCell id="x7JE74Zz-_B23tUYXp61-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=3;fontSize=18;" vertex="1" parent="x7JE74Zz-_B23tUYXp61-7">
           <mxGeometry x="56" y="1162" width="10" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="x7JE74Zz-_B23tUYXp61-24" value="调度算法分析" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeWidth=3;fontSize=18;" edge="1" target="x7JE74Zz-_B23tUYXp61-23" parent="x7JE74Zz-_B23tUYXp61-7">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="x7JE74Zz-_B23tUYXp61-24" value="调度算法分析&lt;br&gt;1、失败任务&lt;br&gt;2、优先级&lt;br&gt;3、重做&lt;br&gt;&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;strokeWidth=3;fontSize=18;" edge="1" target="x7JE74Zz-_B23tUYXp61-23" parent="x7JE74Zz-_B23tUYXp61-7">
+          <mxGeometry x="-0.022" y="20" relative="1" as="geometry">
             <mxPoint x="51" y="1142" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="51" y="1120" />
               <mxPoint x="140" y="1120" />
               <mxPoint x="140" y="1162" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x7JE74Zz-_B23tUYXp61-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=3;fontSize=18;" vertex="1" parent="x7JE74Zz-_B23tUYXp61-7">
