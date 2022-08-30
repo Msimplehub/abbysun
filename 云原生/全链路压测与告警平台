@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-30T11:29:12.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="suw1wYoA3sFVZgJB6Qsv" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-30T11:30:34.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GpkNJIfJrhs0RgjjZDdm" version="20.1.1" type="github">
   <diagram id="QglDfrePA8ets34KuvVl" name="Page-1">
     <mxGraphModel dx="2276" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,10 +61,10 @@
         <mxCell id="h8TGc4Z4CLabd_1s6E8o-28" value="仿真平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-20" y="450" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h8TGc4Z4CLabd_1s6E8o-29" value="应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h8TGc4Z4CLabd_1s6E8o-29" value="影子库，表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="473" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h8TGc4Z4CLabd_1s6E8o-30" value="链路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h8TGc4Z4CLabd_1s6E8o-30" value="流量录制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="473" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h8TGc4Z4CLabd_1s6E8o-31" value="场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
