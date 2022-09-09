@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T08:43:02.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kCswKSUYhMJTCT93Rm9O" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T08:43:24.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7_lh4hiqU1JKpWLSvzYo" version="20.2.7" type="github">
   <diagram id="kTxz2f3oWA5v7mhp_rZz" name="第 1 页">
     <mxGraphModel dx="2751" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -219,7 +219,7 @@
         <mxCell id="1yzsQhWypgodVdBQaPRY-78" value="&lt;b&gt;RTSP&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="350" y="710" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1yzsQhWypgodVdBQaPRY-79" value="&lt;b&gt;VLC&lt;br&gt;&lt;br&gt;rtsp://10.40.11.105/sjh111&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="1yzsQhWypgodVdBQaPRY-79" value="&lt;b style=&quot;&quot;&gt;VLC&lt;br&gt;&lt;br&gt;rtsp://10.40.11.105/sjh111&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;align=left;" vertex="1" parent="1">
           <mxGeometry x="960" y="710" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
