@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T09:14:46.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lRsE-AU2cAqQxAKxmLde" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T09:38:25.447Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="PWtQ15gzjWcWVBqa4gHx" version="20.3.0" type="github">
   <diagram id="kTxz2f3oWA5v7mhp_rZz" name="第 1 页">
-    <mxGraphModel dx="4019" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3227" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,28 +227,28 @@
         <mxCell id="1yzsQhWypgodVdBQaPRY-79" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;VLC&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;rtsp://10.40.11.105/sjh111&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;align=center;" parent="1" vertex="1">
           <mxGeometry x="960" y="890" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="co7nEoDADY1FfvaxZvts-1" value="直播源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="co7nEoDADY1FfvaxZvts-1" value="直播源" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-180" y="750" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="co7nEoDADY1FfvaxZvts-2" value="推流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="co7nEoDADY1FfvaxZvts-2" value="推流" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="90" y="740" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="co7nEoDADY1FfvaxZvts-3" value="直播中心" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="co7nEoDADY1FfvaxZvts-3" value="直播中心" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="370" y="740" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="co7nEoDADY1FfvaxZvts-4" value="分发" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="co7nEoDADY1FfvaxZvts-4" value="分发" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="530" y="740" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="co7nEoDADY1FfvaxZvts-5" value="解码" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="co7nEoDADY1FfvaxZvts-5" value="解码" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="780" y="740" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="co7nEoDADY1FfvaxZvts-6" value="渲染" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="co7nEoDADY1FfvaxZvts-6" value="渲染" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1015" y="730" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="co7nEoDADY1FfvaxZvts-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/5368049061/p171768.png;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="co7nEoDADY1FfvaxZvts-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/5368049061/p171768.png;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-330" y="1070" width="1718.09" height="776.44" as="geometry" />
         </mxCell>
-        <mxCell id="co7nEoDADY1FfvaxZvts-10" value="流分发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="co7nEoDADY1FfvaxZvts-10" value="流分发" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="410" y="430" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
