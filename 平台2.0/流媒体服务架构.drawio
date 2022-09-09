@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T08:33:49.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bzq-Ph7G5uz6Oq9FDAK5" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T08:37:05.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_qIFB-Sic2Q6QM1X05Bp" version="20.2.7" type="github">
   <diagram id="kTxz2f3oWA5v7mhp_rZz" name="第 1 页">
     <mxGraphModel dx="2434" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -206,6 +206,21 @@
         </mxCell>
         <mxCell id="1yzsQhWypgodVdBQaPRY-72" value="流分发" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1yzsQhWypgodVdBQaPRY-73" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=14;curved=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-235" y="810" as="sourcePoint" />
+            <mxPoint x="1150" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1yzsQhWypgodVdBQaPRY-76" value="OBS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="720" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yzsQhWypgodVdBQaPRY-78" value="RTSP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="710" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1yzsQhWypgodVdBQaPRY-79" value="VLC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="710" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
