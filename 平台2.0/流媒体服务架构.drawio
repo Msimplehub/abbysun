@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T09:06:53.914Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_NE7XpsMwZlIR2_REnP8" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T09:08:43.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="JAT9qT11WN8lhuXtIs8c" version="20.3.0" type="github">
   <diagram id="kTxz2f3oWA5v7mhp_rZz" name="第 1 页">
     <mxGraphModel dx="3227" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -244,6 +244,9 @@
         </mxCell>
         <mxCell id="co7nEoDADY1FfvaxZvts-6" value="渲染" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1015" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="co7nEoDADY1FfvaxZvts-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/5368049061/p171768.png;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1070" width="1718.09" height="776.44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
