@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T09:08:43.809Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="JAT9qT11WN8lhuXtIs8c" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T09:09:19.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Hf6yG1tQZZqtD1zMOUhd" version="20.3.0" type="github">
   <diagram id="kTxz2f3oWA5v7mhp_rZz" name="第 1 页">
-    <mxGraphModel dx="3227" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2351" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,7 +209,7 @@
         <mxCell id="1yzsQhWypgodVdBQaPRY-71" value="AUDIO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="386" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1yzsQhWypgodVdBQaPRY-72" value="流分发" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1yzsQhWypgodVdBQaPRY-72" value="录制" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1yzsQhWypgodVdBQaPRY-73" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=14;curved=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=6;" parent="1" edge="1">
@@ -247,6 +247,9 @@
         </mxCell>
         <mxCell id="co7nEoDADY1FfvaxZvts-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://help-static-aliyun-doc.aliyuncs.com/assets/img/zh-CN/5368049061/p171768.png;" vertex="1" parent="1">
           <mxGeometry x="-330" y="1070" width="1718.09" height="776.44" as="geometry" />
+        </mxCell>
+        <mxCell id="co7nEoDADY1FfvaxZvts-10" value="流分发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
