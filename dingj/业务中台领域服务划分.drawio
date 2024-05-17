@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T08:20:33.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zD7KEyrWjisFZLzF2hJ5" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T08:28:03.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2LFU-WPtng76-NOdoOlG" version="24.4.0" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
-    <mxGraphModel dx="947" dy="53" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="53" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,8 +183,8 @@
         <mxCell id="z-uqwMR72b3MVvRLqWOY-187" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffffff;dashed=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="464" y="548" width="110" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="z-uqwMR72b3MVvRLqWOY-188" value="聚合根" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="495" y="590" width="50" height="30" as="geometry" />
+        <mxCell id="z-uqwMR72b3MVvRLqWOY-188" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;预测参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="474" y="580" width="35" height="10" as="geometry" />
         </mxCell>
         <mxCell id="z-uqwMR72b3MVvRLqWOY-189" value="&lt;b&gt;销售预测&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="494" y="560" width="60" height="20" as="geometry" />
@@ -501,6 +501,30 @@
         </mxCell>
         <mxCell id="YBVbsnw1X_i6yfcpu3ao-13" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;临时信用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="421" y="102" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-14" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;长周期备料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="514" y="580" width="35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;需求偏差客户&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="467" y="592" width="43" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-16" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;需求偏差明细&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="514" y="592" width="43" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-17" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;共用料需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="471" y="604" width="43" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-18" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;原材料需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="517" y="604" width="43" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-19" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;原材料到库&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="479" y="616" width="39" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-21" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;原材料缺料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="520" y="616" width="39" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-22" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;原材料偏差&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="500" y="627" width="39" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
