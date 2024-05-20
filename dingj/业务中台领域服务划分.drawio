@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T01:32:27.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fuDXRihVam_u-CmcLxmP" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T01:35:19.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="SHxVxnbpE7K_sJ5u3K3q" version="24.4.0" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="1414" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -621,6 +621,9 @@
         </mxCell>
         <mxCell id="YBVbsnw1X_i6yfcpu3ao-56" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;多仓储批信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#FFD966;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="503" y="466" width="47" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YBVbsnw1X_i6yfcpu3ao-57" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;报价单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#66FF66;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="318" y="103" width="35" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
