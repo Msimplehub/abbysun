@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T07:13:26.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xBmNXENR7CA0icz9Pnxz" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T07:13:56.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ef7g2VO02F5iEGi9NAV7" version="24.4.4" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="2501" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -667,10 +667,10 @@
           <mxGeometry x="105" y="2040" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="265" y="2040" width="60" height="80" as="geometry" />
+          <mxGeometry x="435" y="2040" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="447" y="2040" width="60" height="80" as="geometry" />
+          <mxGeometry x="807" y="2040" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-10" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-75" y="2030" width="75" height="100" as="geometry" />
@@ -697,7 +697,7 @@
           <mxGeometry x="345" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-20" value="核心业务域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="1620" width="106" height="50" as="geometry" />
+          <mxGeometry x="14" y="1620" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-22" value="领域服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-76" y="1610" width="86" height="400" as="geometry" />
@@ -706,7 +706,7 @@
           <mxGeometry x="879" y="1630" width="151" height="350" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-24" value="数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1630" width="90" height="60" as="geometry" />
+          <mxGeometry x="880" y="1630" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-25" value="数据集市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="1724" width="113" height="46" as="geometry" />
