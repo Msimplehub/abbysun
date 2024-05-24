@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T09:18:27.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="v4pDu72j5x7Z9LpiOmOS" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T09:18:50.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lPpuijgpqc7dsI2oV5Rm" version="24.4.4" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
-    <mxGraphModel dx="3402" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3871" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hdW6q1p-CXDspa1HK1I6-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="1410" width="1176" height="600" as="geometry" />
+          <mxGeometry x="-76" y="1860" width="1176" height="600" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="1420" width="1086" height="460" as="geometry" />
+          <mxGeometry x="14" y="1870" width="1086" height="460" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="29" y="1470" width="190" height="195" as="geometry" />
+          <mxGeometry x="29" y="1920" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="1270" width="1336" height="130" as="geometry" />
+          <mxGeometry x="-76" y="1720" width="1336" height="130" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="1920" width="466" height="87" as="geometry" />
+          <mxGeometry x="14" y="2370" width="466" height="87" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="2030" width="1335" height="100" as="geometry" />
+          <mxGeometry x="-75" y="2480" width="1335" height="100" as="geometry" />
         </mxCell>
         <mxCell id="z-uqwMR72b3MVvRLqWOY-53" value="" style="curved=1;endArrow=none;html=1;dashed=1;endFill=0;strokeWidth=2;fontStyle=1;exitX=0.005;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -667,220 +667,220 @@
           <mxGeometry x="378" y="733" width="39" height="10" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-5" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="1954" width="120" height="40" as="geometry" />
+          <mxGeometry x="55" y="2404" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="225" y="2040" width="60" height="80" as="geometry" />
+          <mxGeometry x="225" y="2490" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="555" y="2040" width="60" height="80" as="geometry" />
+          <mxGeometry x="555" y="2490" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="927" y="2040" width="60" height="80" as="geometry" />
+          <mxGeometry x="927" y="2490" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-10" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="2030" width="75" height="100" as="geometry" />
+          <mxGeometry x="-75" y="2480" width="75" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-11" value="配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="1954" width="120" height="40" as="geometry" />
+          <mxGeometry x="195" y="2404" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-12" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1954" width="120" height="40" as="geometry" />
+          <mxGeometry x="345" y="2404" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-15" value="支撑域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="1920" width="106" height="30" as="geometry" />
+          <mxGeometry x="14" y="2370" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-17" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1528" width="120" height="30" as="geometry" />
+          <mxGeometry x="60" y="1978" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-18" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="1567.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="61" y="2017.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-19" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1606" width="120" height="30" as="geometry" />
+          <mxGeometry x="60" y="2056" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-20" value="核心业务域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14" y="1420" width="106" height="30" as="geometry" />
+          <mxGeometry x="14" y="1870" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-22" value="领域服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="1410" width="76" height="600" as="geometry" />
+          <mxGeometry x="-76" y="1860" width="76" height="600" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-29" value="规格编排" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="1280" width="100" height="50" as="geometry" />
+          <mxGeometry x="59" y="1730" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-31" value="应用服务&lt;div&gt;（编排）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="1270" width="75" height="130" as="geometry" />
+          <mxGeometry x="-75" y="1720" width="75" height="130" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="1920" width="356" height="87" as="geometry" />
+          <mxGeometry x="684" y="2370" width="356" height="87" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-38" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="725" y="1954" width="120" height="40" as="geometry" />
+          <mxGeometry x="725" y="2404" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-39" value="配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="865" y="1954" width="120" height="40" as="geometry" />
+          <mxGeometry x="865" y="2404" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-41" value="通用域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="1920" width="106" height="30" as="geometry" />
+          <mxGeometry x="684" y="2370" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="1150" width="1336" height="110" as="geometry" />
+          <mxGeometry x="-76" y="1600" width="1336" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-54" value="销售域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="29" y="1470" width="190" height="35" as="geometry" />
+          <mxGeometry x="29" y="1920" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1470" width="190" height="195" as="geometry" />
+          <mxGeometry x="239" y="1920" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-56" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1528" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="1978" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-57" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="1567.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="271" y="2017.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-58" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1606" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="2056" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-59" value="采购域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1470" width="190" height="35" as="geometry" />
+          <mxGeometry x="239" y="1920" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="1680" width="190" height="195" as="geometry" />
+          <mxGeometry x="449" y="2130" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-61" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1738" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="2188" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-62" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="1777.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="481" y="2227.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-63" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1816" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="2266" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-64" value="工艺域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="1680" width="190" height="35" as="geometry" />
+          <mxGeometry x="449" y="2130" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="649" y="1680" width="190" height="195" as="geometry" />
+          <mxGeometry x="649" y="2130" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-66" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1738" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="2188" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-67" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1777.5" width="120" height="32.5" as="geometry" />
+          <mxGeometry x="680" y="2227.5" width="120" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-68" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1816" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="2266" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-69" value="公共基础域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="649" y="1680" width="190" height="35" as="geometry" />
+          <mxGeometry x="649" y="2130" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="1470" width="190" height="195" as="geometry" />
+          <mxGeometry x="449" y="1920" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-71" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1528" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="1978" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-72" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="1567.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="481" y="2017.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-73" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1606" width="120" height="30" as="geometry" />
+          <mxGeometry x="480" y="2056" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-74" value="存货域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="1470" width="190" height="35" as="geometry" />
+          <mxGeometry x="449" y="1920" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="649" y="1470" width="190" height="195" as="geometry" />
+          <mxGeometry x="649" y="1920" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-76" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1528" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="1978" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-77" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="681" y="1567.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="681" y="2017.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-78" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1606" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="2056" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-79" value="计划域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="649" y="1470" width="190" height="35" as="geometry" />
+          <mxGeometry x="649" y="1920" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="29" y="1680" width="190" height="195" as="geometry" />
+          <mxGeometry x="29" y="2130" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-89" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1738" width="120" height="30" as="geometry" />
+          <mxGeometry x="60" y="2188" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-90" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="1777.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="61" y="2227.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-91" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1816" width="120" height="30" as="geometry" />
+          <mxGeometry x="60" y="2266" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-92" value="项目域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="29" y="1680" width="190" height="35" as="geometry" />
+          <mxGeometry x="29" y="2130" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-93" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1680" width="190" height="195" as="geometry" />
+          <mxGeometry x="239" y="2130" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-94" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1738" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="2188" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-95" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="1777.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="271" y="2227.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-96" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1816" width="120" height="30" as="geometry" />
+          <mxGeometry x="270" y="2266" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-97" value="工单域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1680" width="190" height="35" as="geometry" />
+          <mxGeometry x="239" y="2130" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1109" y="1410" width="151" height="600" as="geometry" />
+          <mxGeometry x="1109" y="1860" width="151" height="600" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-109" value="数据服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="1410" width="90" height="30" as="geometry" />
+          <mxGeometry x="1110" y="1860" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-110" value="数据集市" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1127" y="1594" width="113" height="46" as="geometry" />
+          <mxGeometry x="1127" y="2044" width="113" height="46" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-111" value="数据血缘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1127.5" y="1657" width="112.5" height="46" as="geometry" />
+          <mxGeometry x="1127.5" y="2107" width="112.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-112" value="数据计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1720" width="110" height="46" as="geometry" />
+          <mxGeometry x="1130" y="2170" width="110" height="46" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-113" value="应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-76" y="1150" width="76" height="110" as="geometry" />
+          <mxGeometry x="-76" y="1600" width="76" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="1680" width="190" height="195" as="geometry" />
+          <mxGeometry x="869" y="2130" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-115" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1738" width="120" height="30" as="geometry" />
+          <mxGeometry x="900" y="2188" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-116" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1777.5" width="120" height="32.5" as="geometry" />
+          <mxGeometry x="900" y="2227.5" width="120" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-117" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1816" width="120" height="30" as="geometry" />
+          <mxGeometry x="900" y="2266" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-118" value="BOM域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="1680" width="190" height="35" as="geometry" />
+          <mxGeometry x="869" y="2130" width="190" height="35" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-119" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="1470" width="190" height="195" as="geometry" />
+          <mxGeometry x="869" y="1920" width="190" height="195" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-120" value="销售订单子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1528" width="120" height="30" as="geometry" />
+          <mxGeometry x="900" y="1978" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-121" value="销售价格子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="901" y="1567.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="901" y="2017.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-122" value="销售履约子域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="1606" width="120" height="30" as="geometry" />
+          <mxGeometry x="900" y="2056" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hdW6q1p-CXDspa1HK1I6-123" value="质量域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="1470" width="190" height="35" as="geometry" />
+          <mxGeometry x="869" y="1920" width="190" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
