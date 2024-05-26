@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T15:07:21.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5NSy1D2J2uoUxFixy0AA" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T16:26:08.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Sc7UgCQlu_RCMc4uc5EJ" version="24.4.8" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
-    <mxGraphModel dx="3402" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2224" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,6 +995,192 @@
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--22" value="&lt;b&gt;三方适配&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="1">
           <mxGeometry x="724" y="2513" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--25" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;迭代一：夯实基础&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-71" y="2850" width="371" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--26" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="2893" width="175" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--28" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;事件风暴&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="2893" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--29" value="&lt;b&gt;捕获行为需求&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--30" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;识别领域事件&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;识别命令&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;识别领域名词&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2960" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--31" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="125" y="2893" width="175" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--32" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;领域建模&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="2893" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--33" value="&lt;b&gt;可视化领域知识&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--34" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;关联表示对象关系&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;识别业务规则&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;建立词汇表&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2960" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--35" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3053" width="175" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--36" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据库设计&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="3053" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--37" value="&lt;b&gt;模型与数据库一致&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3090" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--39" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3153" width="175" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--40" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;代码编写&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="3153" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--41" value="&lt;b&gt;代码与模型一致&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--42" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;编程范式&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;领域聚合接口&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;聚合仓储&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--43" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="125" y="3053" width="175" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--44" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;代码设计&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="3053" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--45" value="&lt;b&gt;清晰的代码架构&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3080" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--46" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;分层架构分裂领域&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;领域逻辑&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;仓储持久化&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;工厂&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--47" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;迭代二：渐入佳境&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="2850" width="371" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--48" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2893" width="175" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--49" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;值对象&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="2893" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--50" value="&lt;b&gt;描述属性值&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--51" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;值对象的优势&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;值对象建模&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;值对象编程&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2960" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--52" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="535" y="2893" width="175" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--53" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;聚合&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="2893" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--54" value="&lt;b&gt;保护业务规则&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--55" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;聚合的建模&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;聚合的封装&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;聚合持久化&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;乐观锁维护业务规则&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2960" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--63" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="535" y="3080" width="175" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--64" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;限定&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="3078" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--65" value="&lt;b&gt;简化一对多关系&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="3111" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--66" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;限定的建模&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;限定的编程&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;限定的数据库约束&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="3150" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--67" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335" y="3080" width="175" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--68" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;泛化&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="3078" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--69" value="&lt;b&gt;更抽象的领域建模&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3111" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--70" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;泛化的建模&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;泛化的数据库设计&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;泛化的编程&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3150" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--71" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;迭代三：更进一步&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="739" y="2850" width="371" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--72" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="735" y="2893" width="175" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--73" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;限届上下文&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784" y="2893" width="76" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--74" value="&lt;b&gt;概念一致性&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="2920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--75" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;限界本质&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;上下文映射的建模&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;防腐与上下文调用&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="2960" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--76" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="935" y="2893" width="175" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--77" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;微服务设计&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="984" y="2893" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--78" value="&lt;b&gt;更抽象的领域建模&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--79" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;微服务设计策略&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;API设计&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="960" y="2960" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--84" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="735" y="3150" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--85" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CQRS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784" y="3148" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--86" value="&lt;b&gt;解决查询问题&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="3181" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--87" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;CQRS理念&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;代码架构&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="3220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--88" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="735" y="3074" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--89" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;高级泛化&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784" y="3068" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--90" value="&lt;b&gt;适应更灵活多变的需求&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="3101" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--91" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="935" y="3150" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--92" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;落地问题&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="984" y="3148" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--93" value="&lt;b&gt;实践关键技巧&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="3181" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--94" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;试点项目&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;改进研发流程&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;人员角色&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;遗留系统改造&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="960" y="3220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--95" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="935" y="3074" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--96" value="&lt;b&gt;异步事件解耦&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="3101" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--97" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;事件驱动架构&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="974" y="3068" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--98" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="3340" width="1205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--99" value="&lt;b&gt;贯穿全程：模型驱动设计/统一语言&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="3356" width="236" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
