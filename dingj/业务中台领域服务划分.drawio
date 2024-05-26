@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T10:30:56.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Rg04ADPWuMMIFHBKHynF" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-26T10:32:20.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xGS5yv_Q6g8SP6-pg2a5" version="24.4.8" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="2796" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -983,6 +983,15 @@
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--19" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="344" y="2645" width="45" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--20" value="聚合管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154" y="2558" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--21" value="稳态防腐层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="2558" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="482s2hT17r3MAT0nb4I--22" value="三方适配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="724" y="2558" width="96" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
