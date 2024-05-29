@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T05:27:31.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ct5zSahpVX5wKW7w1oVU" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T05:27:47.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Vu-PJ8YP0Yn9rgnNh_3v" version="24.4.8" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="1696" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1215,7 +1215,7 @@
         <mxCell id="482s2hT17r3MAT0nb4I--110" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="399" y="3590" width="28" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nP1c8PTI3FQ6EoSQKgAC-3" value="领域模型" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="nP1c8PTI3FQ6EoSQKgAC-3" value="领域模型" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="371" y="3813" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="nP1c8PTI3FQ6EoSQKgAC-4" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
