@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T05:26:49.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="S_E90ka-yWyDk1UenZku" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T05:27:13.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dcVA28k_lyJ_9ZNLPcLX" version="24.4.8" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="1696" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1221,8 +1221,8 @@
         <mxCell id="nP1c8PTI3FQ6EoSQKgAC-4" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="3780" width="28" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nP1c8PTI3FQ6EoSQKgAC-5" value="工厂" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="391" y="3780" width="60" height="30" as="geometry" />
+        <mxCell id="nP1c8PTI3FQ6EoSQKgAC-5" value="编排" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="3780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nP1c8PTI3FQ6EoSQKgAC-6" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="3690" width="28" height="140" as="geometry" />
