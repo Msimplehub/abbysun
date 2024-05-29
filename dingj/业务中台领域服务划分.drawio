@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T05:27:57.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pVuOOBVaU83WV6IGit2d" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T05:28:30.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="STYEGTJI0Jm5Io4Lpekb" version="24.4.8" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="1696" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1189,7 +1189,7 @@
           <mxGeometry x="231" y="3730" width="169" height="50" as="geometry" />
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--102" value="仓储服务" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
-          <mxGeometry x="286" y="3880" width="304" height="50" as="geometry" />
+          <mxGeometry x="286" y="3880" width="284" height="50" as="geometry" />
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--103" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="301" y="3780" width="29" height="100" as="geometry" />
