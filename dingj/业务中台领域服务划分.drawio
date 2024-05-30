@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T10:12:10.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0lcXn2sRT9df3MJVH2Wx" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T10:16:32.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xaabpXTJqJvXDSKazRDu" version="24.4.10" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
-    <mxGraphModel dx="1511" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1230,17 +1230,23 @@
         <mxCell id="nP1c8PTI3FQ6EoSQKgAC-7" value="编排场景" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="402" y="3720" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bfXPByMJitDuSBKVKOAA-1" value="&lt;b&gt;未做&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="bfXPByMJitDuSBKVKOAA-1" value="&lt;b&gt;未做&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1142" y="2850" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bfXPByMJitDuSBKVKOAA-2" value="&lt;b&gt;部分&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="bfXPByMJitDuSBKVKOAA-2" value="&lt;b&gt;部分&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1142" y="2893" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bfXPByMJitDuSBKVKOAA-8" value="销售订单" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="477" y="4100" width="160" height="120" as="geometry" />
+        <mxCell id="H9D_z9iKsGwFIpaNpuzp-3" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="4110" width="156" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="bfXPByMJitDuSBKVKOAA-9" value="订单号&lt;div&gt;销售域&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="bfXPByMJitDuSBKVKOAA-8">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        <mxCell id="H9D_z9iKsGwFIpaNpuzp-4" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H9D_z9iKsGwFIpaNpuzp-3">
+          <mxGeometry y="26" width="156" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H9D_z9iKsGwFIpaNpuzp-5" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H9D_z9iKsGwFIpaNpuzp-3">
+          <mxGeometry y="52" width="156" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H9D_z9iKsGwFIpaNpuzp-6" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="H9D_z9iKsGwFIpaNpuzp-3">
+          <mxGeometry y="78" width="156" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
