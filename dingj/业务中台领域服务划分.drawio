@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T01:56:43.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="mfvHb1yIx9x1-n7BTehN" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T02:07:10.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Nw9egl5ibP9o-dyDaLvd" version="24.4.9" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1008,7 +1008,7 @@
         <mxCell id="482s2hT17r3MAT0nb4I--29" value="&lt;b&gt;捕获行为需求&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="2920" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="482s2hT17r3MAT0nb4I--30" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;识别领域事件&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;识别命令&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;识别领域名词&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+        <mxCell id="482s2hT17r3MAT0nb4I--30" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;识别领域事件&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;识别命令&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;识别领域名词&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-50" y="2960" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--31" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -1053,7 +1053,7 @@
         <mxCell id="482s2hT17r3MAT0nb4I--45" value="&lt;b&gt;清晰的代码架构&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="3080" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="482s2hT17r3MAT0nb4I--46" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;分层架构分裂领域&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;领域逻辑&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;仓储持久化&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;工厂&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="482s2hT17r3MAT0nb4I--46" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;分层架构分裂领域&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;领域逻辑&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;仓储持久化&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;工厂&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="150" y="3120" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--47" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;迭代二：渐入佳境&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1080,7 +1080,7 @@
         <mxCell id="482s2hT17r3MAT0nb4I--54" value="&lt;b&gt;保护业务规则&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="2920" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="482s2hT17r3MAT0nb4I--55" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;聚合的建模&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;聚合的封装&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;聚合持久化&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;乐观锁维护业务规则&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="482s2hT17r3MAT0nb4I--55" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;聚合的建模&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;聚合的封装&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;聚合持久化&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;乐观锁维护业务规则&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="2960" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--63" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -1161,10 +1161,10 @@
         <mxCell id="482s2hT17r3MAT0nb4I--92" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;落地问题&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="984" y="3148" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="482s2hT17r3MAT0nb4I--93" value="&lt;b&gt;实践关键技巧&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="482s2hT17r3MAT0nb4I--93" value="&lt;b&gt;实践关键技巧&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="960" y="3181" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="482s2hT17r3MAT0nb4I--94" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;试点项目&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;改进研发流程&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;人员角色&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;遗留系统改造&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="482s2hT17r3MAT0nb4I--94" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;试点项目&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;改进研发流程&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;人员角色&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;遗留系统改造&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="960" y="3220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--95" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -1232,6 +1232,9 @@
         </mxCell>
         <mxCell id="bfXPByMJitDuSBKVKOAA-1" value="&lt;b&gt;未做&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1150" y="2850" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bfXPByMJitDuSBKVKOAA-2" value="&lt;b&gt;部分&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="2893" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
