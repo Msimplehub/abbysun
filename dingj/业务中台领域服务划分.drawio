@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T02:12:28.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="c7n14_XZH3Nq73w0584e" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:24:46.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JVR06YEZ1Yv2064deWND" version="24.4.9" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1029,7 +1029,7 @@
         <mxCell id="482s2hT17r3MAT0nb4I--36" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据库设计&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-26" y="3053" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="482s2hT17r3MAT0nb4I--37" value="&lt;b&gt;模型与数据库一致&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="482s2hT17r3MAT0nb4I--37" value="&lt;b&gt;模型与数据库一致&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-50" y="3090" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--39" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -1128,7 +1128,7 @@
         <mxCell id="482s2hT17r3MAT0nb4I--77" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;微服务设计&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="984" y="2893" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="482s2hT17r3MAT0nb4I--78" value="&lt;b&gt;更抽象的领域建模&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="482s2hT17r3MAT0nb4I--78" value="&lt;b&gt;微服务设计技巧&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="2920" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="482s2hT17r3MAT0nb4I--79" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;微服务设计策略&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;API设计&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
