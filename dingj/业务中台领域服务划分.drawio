@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T08:01:23.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LLCyIno7QcxoSjO1iM_f" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T09:00:48.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HQuh2JY3_6NzKgxgNITX" version="24.5.2" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="2901" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2041,8 +2041,8 @@
         <mxCell id="UPSOeSjAyHCNO1guj39D-11" value="QC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="765" y="5640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UPSOeSjAyHCNO1guj39D-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;需求执行路径&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="431" y="5700" width="139" height="30" as="geometry" />
+        <mxCell id="UPSOeSjAyHCNO1guj39D-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;需求执行路径（统一语言：认知一致）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="379.5" y="5700" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UPSOeSjAyHCNO1guj39D-13" value="业务模型建立" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="283" y="5550" width="105" height="30" as="geometry" />
