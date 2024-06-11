@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T02:32:11.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LGn21NZqlf7EfDzN1zYT" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T02:33:05.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gm0uwphEhUZ1kxgbqM1l" version="24.5.2" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="2901" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2029,9 +2029,6 @@
         <mxCell id="UPSOeSjAyHCNO1guj39D-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="777" y="5600" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UPSOeSjAyHCNO1guj39D-7" value="需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="155" y="5560" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="UPSOeSjAyHCNO1guj39D-8" value="领域架构师" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="302" y="5640" width="75" height="30" as="geometry" />
         </mxCell>
@@ -2058,6 +2055,12 @@
         </mxCell>
         <mxCell id="UPSOeSjAyHCNO1guj39D-16" value="规格测试" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="743" y="5550" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-17" value="业务方" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="155" y="5640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-18" value="需求来源" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="133" y="5550" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
