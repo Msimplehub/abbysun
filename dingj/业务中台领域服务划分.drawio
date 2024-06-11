@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T05:52:13.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TqcrLfZYv2TZrZTLFI_D" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T07:53:22.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HPQneY5j0CYWz21A9aal" version="24.5.2" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="2901" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2061,6 +2061,27 @@
         </mxCell>
         <mxCell id="UPSOeSjAyHCNO1guj39D-18" value="需求来源" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="133" y="5550" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-19" value="工单聚合" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="149" y="5850" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-20" value="转移单聚合" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="349" y="5850" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-21" value="工单工艺聚合" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="539" y="5850" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-22" value="数据下推" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="747" y="5850" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、获取聚合&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、判断&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="5950" width="91" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、获取聚合&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、判断&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、更新状态&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4、更新时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="5950" width="91" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UPSOeSjAyHCNO1guj39D-27" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、获取移入/出工序信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2、获取后工序信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3、更新移入工序（check创建）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4、更新移入/出工序量&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5、更新工艺单身投入量&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6、Check&amp;amp;Rollback&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="5950" width="176" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
