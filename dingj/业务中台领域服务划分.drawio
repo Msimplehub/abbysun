@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T05:55:19.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zFi-hLejO2o-9Y9s2Yve" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T06:16:11.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0rw00G0nAIIMeP2zCNJs" version="24.6.2" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
-    <mxGraphModel dx="3088" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3191" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2339,197 +2339,209 @@
         <mxCell id="Lqwu0SmWj0tjCZiT_86T-3" value="审核" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="475" y="5848" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-1" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;迭代一：夯实基础&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-61" y="7442" width="371" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;架构师&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-61" y="7612" width="371" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-2" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-65" y="7485" width="175" height="147" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-2" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="345" y="7655" width="175" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-3" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;事件风暴&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-16" y="7485" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-3" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;事件风暴&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="394" y="7655" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-4" value="&lt;span&gt;捕获行为需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-40" y="7512" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-4" value="&lt;span&gt;捕获行为需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="7682" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-5" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;识别领域事件&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;识别命令&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;识别领域名词&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-40" y="7552" width="120" height="70" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-5" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;识别领域事件&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;识别命令&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;识别领域名词&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="7722" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-6" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="135" y="7485" width="175" height="147" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-6" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="545" y="7655" width="175" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-7" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;领域建模&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="184" y="7485" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-7" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;领域建模&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="594" y="7655" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-8" value="&lt;span&gt;可视化领域知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="7512" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-8" value="&lt;span&gt;可视化领域知识&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="7682" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-9" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;关联表示对象关系&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;识别业务规则&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;建立词汇表&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="7552" width="120" height="70" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-9" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;关联表示对象关系&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;识别业务规则&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;建立词汇表&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="7722" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-10" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-65" y="7645" width="175" height="87" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-10" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="945" y="7915" width="175" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-11" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据库设计&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-16" y="7645" width="76" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-11" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据库设计&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="994" y="7915" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-12" value="&lt;span&gt;模型与数据库一致&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-12" value="&lt;span&gt;模型与数据库一致&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="970" y="7952" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-13" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="755" y="7823" width="175" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-14" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;代码编写&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="804" y="7823" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-15" value="&lt;span&gt;代码与模型一致&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="780" y="7850" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-16" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;编程范式&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;领域聚合接口&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;聚合仓储&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="780" y="7890" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-17" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="945" y="7655" width="175" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-18" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;代码设计&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="994" y="7655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-19" value="&lt;span&gt;清晰的代码架构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="970" y="7682" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-20" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;分层架构分裂领域&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;领域逻辑&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;仓储持久化&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;工厂&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="970" y="7722" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-21" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;SA&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="349" y="7612" width="371" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-22" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-65" y="7655" width="175" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-23" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;值对象&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-16" y="7655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-24" value="&lt;span&gt;描述属性值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-40" y="7682" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-13" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-65" y="7745" width="175" height="147" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-25" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;值对象的优势&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;值对象建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;值对象编程&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-40" y="7722" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-14" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;代码编写&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-16" y="7745" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-26" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="135" y="7655" width="175" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-15" value="&lt;span&gt;代码与模型一致&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-40" y="7772" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-27" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;聚合&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="184" y="7655" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-16" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;编程范式&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;领域聚合接口&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;聚合仓储&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-40" y="7812" width="120" height="70" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-28" value="&lt;span&gt;保护业务规则&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="160" y="7682" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-17" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="135" y="7645" width="175" height="247" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-29" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;聚合的建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;聚合的封装&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;聚合持久化&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;乐观锁维护业务规则&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="160" y="7722" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-18" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;代码设计&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="184" y="7645" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-30" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="345" y="7812" width="175" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-19" value="&lt;span&gt;清晰的代码架构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="7672" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-31" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;限定&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="394" y="7810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-20" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;分层架构分裂领域&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;领域逻辑&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;仓储持久化&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;工厂&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="160" y="7712" width="120" height="160" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-32" value="&lt;span&gt;简化一对多关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="7843" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-21" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;迭代二：渐入佳境&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="349" y="7442" width="371" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-33" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;限定的建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;限定的编程&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;限定的数据库约束&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="7882" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-22" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="345" y="7485" width="175" height="177" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-34" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-65" y="7842" width="175" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-23" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;值对象&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="394" y="7485" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-35" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;泛化&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-16" y="7840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-24" value="&lt;span&gt;描述属性值&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="7512" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-36" value="&lt;span&gt;更抽象的领域建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-40" y="7873" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-25" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;值对象的优势&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;值对象建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;值对象编程&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="7552" width="120" height="100" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-37" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;泛化的建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;泛化的数据库设计&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;泛化的编程&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-40" y="7922" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-26" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="545" y="7485" width="175" height="177" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-38" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;PR&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="749" y="7612" width="371" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-27" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;聚合&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="594" y="7485" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-39" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="135" y="7839" width="175" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-28" value="&lt;span&gt;保护业务规则&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="7512" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-40" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;限界上下文&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="184" y="7839" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-29" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;聚合的建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;聚合的封装&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;聚合持久化&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;乐观锁维护业务规则&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="7552" width="120" height="100" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-41" value="&lt;span&gt;概念一致性&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="160" y="7866" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-30" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="545" y="7672" width="175" height="220" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-42" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;限界本质&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;上下文映射的建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;防腐与上下文调用&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="160" y="7906" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-31" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;限定&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="594" y="7670" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-43" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-260" y="7785" width="175" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-32" value="&lt;span&gt;简化一对多关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="7703" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-44" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;微服务设计&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-211" y="7785" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-33" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;限定的建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;限定的编程&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;限定的数据库约束&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="7742" width="120" height="130" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-45" value="&lt;span&gt;微服务设计技巧&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-235" y="7812" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-34" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="345" y="7672" width="175" height="220" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-46" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;微服务设计策略&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;API设计&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-235" y="7852" width="120" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-35" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;泛化&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="394" y="7670" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-47" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="755" y="7660" width="175" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-36" value="&lt;span&gt;更抽象的领域建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="7703" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-48" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CQRS&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="804" y="7658" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-37" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;泛化的建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;泛化的数据库设计&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;泛化的编程&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="7742" width="120" height="130" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-49" value="&lt;span&gt;解决查询问题&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="780" y="7691" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-38" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;迭代三：更进一步&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="749" y="7442" width="371" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-50" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;CQRS理念&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;代码架构&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="780" y="7730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-39" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="745" y="7485" width="175" height="177" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-51" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="135" y="8026" width="175" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-40" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;限界上下文&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="794" y="7485" width="76" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-52" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;高级泛化&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="184" y="8020" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-41" value="&lt;span&gt;概念一致性&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="7512" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-53" value="&lt;span&gt;适应更灵活多变的需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="160" y="8053" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-42" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;限界本质&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;上下文映射的建模&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;防腐与上下文调用&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="7552" width="120" height="100" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-54" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-260" y="7952" width="175" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-43" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="945" y="7485" width="175" height="177" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-55" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;落地问题&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-191" y="7950" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-44" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;微服务设计&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="994" y="7485" width="86" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-56" value="&lt;span&gt;实践关键技巧&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-235" y="7983" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-45" value="&lt;span&gt;微服务设计技巧&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="7512" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-57" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;试点项目&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;改进研发流程&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;人员角色&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;遗留系统改造&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-235" y="8022" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-46" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;微服务设计策略&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;API设计&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="7552" width="120" height="100" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-58" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="545" y="7816" width="175" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-47" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="745" y="7742" width="175" height="150" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-59" value="&lt;span&gt;异步事件解耦&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="7843" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-48" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CQRS&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="794" y="7740" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-60" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;事件驱动架构&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="584" y="7810" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-49" value="&lt;span&gt;解决查询问题&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="7773" width="120" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-61" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-65" y="8100" width="1205" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-50" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;CQRS理念&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;代码架构&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="7812" width="120" height="60" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-62" value="&lt;span&gt;贯穿全程：模型驱动设计/统一语言&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="354" y="8118" width="236" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-51" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="745" y="7666" width="175" height="70" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-63" value="&lt;span&gt;未做&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1152" y="7612" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-52" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;高级泛化&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="794" y="7660" width="60" height="30" as="geometry" />
+        <mxCell id="7GCEI2dNpmHwhHSACm_f-64" value="&lt;span&gt;部分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1152" y="7655" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-53" value="&lt;span&gt;适应更灵活多变的需求&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="7693" width="120" height="30" as="geometry" />
+        <mxCell id="1TTIZwABEvc7k5qjsR-b-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;架构负责人&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-260" y="7610" width="174" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-54" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="945" y="7742" width="175" height="150" as="geometry" />
+        <mxCell id="1TTIZwABEvc7k5qjsR-b-2" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-260" y="7645" width="175" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-55" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;落地问题&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="994" y="7740" width="60" height="30" as="geometry" />
+        <mxCell id="1TTIZwABEvc7k5qjsR-b-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;顶层设计&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-217" y="7641" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-56" value="&lt;span&gt;实践关键技巧&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="7773" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-57" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;试点项目&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;改进研发流程&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;人员角色&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;遗留系统改造&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="7812" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-58" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="945" y="7666" width="175" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-59" value="&lt;span&gt;异步事件解耦&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="7693" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-60" value="&lt;span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;事件驱动架构&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="984" y="7660" width="86" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-61" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-65" y="7932" width="1205" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-62" value="&lt;span&gt;贯穿全程：模型驱动设计/统一语言&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="354" y="7948" width="236" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-63" value="&lt;span&gt;未做&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1152" y="7442" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7GCEI2dNpmHwhHSACm_f-64" value="&lt;span&gt;部分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1152" y="7485" width="110" height="30" as="geometry" />
+        <mxCell id="1TTIZwABEvc7k5qjsR-b-5" value="&lt;ul&gt;&lt;li&gt;知识布道&lt;/li&gt;&lt;li&gt;框架设计&lt;/li&gt;&lt;li&gt;疑问解答&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-235" y="7670" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
