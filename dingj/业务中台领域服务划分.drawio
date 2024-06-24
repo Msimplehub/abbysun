@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T08:29:58.510Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="by5FWpYCqDhvWCJsrt2n" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T08:44:06.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Tc8-9rgNulrLbHxKumEC" version="24.6.2" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="3281" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2613,7 +2613,7 @@
           <mxGeometry x="657" y="8960" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1TTIZwABEvc7k5qjsR-b-20" value="领域服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-81" y="9000" width="60" height="30" as="geometry" />
+          <mxGeometry x="-100" y="9000" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TTIZwABEvc7k5qjsR-b-21" value="生命周期服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-86" y="9160" width="60" height="30" as="geometry" />
@@ -2652,13 +2652,16 @@
           <mxGeometry x="657" y="8560" width="183" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1TTIZwABEvc7k5qjsR-b-51" value="生命周期服务逐级封装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="14" y="9280" width="136" height="30" as="geometry" />
+          <mxGeometry x="-6" y="9280" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TTIZwABEvc7k5qjsR-b-52" value="领域服务逐级封装" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="344" y="9280" width="136" height="30" as="geometry" />
+          <mxGeometry x="334" y="9280" width="166" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TTIZwABEvc7k5qjsR-b-53" value="应用服务组合发布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="684" y="9280" width="136" height="30" as="geometry" />
+          <mxGeometry x="664" y="9280" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1TTIZwABEvc7k5qjsR-b-54" value="应用服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="8810" width="79" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
