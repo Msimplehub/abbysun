@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T08:46:41.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7DU6v6qqtHI5h-W8B5nC" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T08:47:15.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gu-aMIPmq7_NPbEIzS2v" version="24.6.2" type="github">
   <diagram name="第 1 页" id="gAhneNLGMRocs_wJU73B">
     <mxGraphModel dx="3281" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2615,8 +2615,8 @@
         <mxCell id="1TTIZwABEvc7k5qjsR-b-20" value="领域服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-100" y="8740" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1TTIZwABEvc7k5qjsR-b-21" value="生命周期服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-86" y="8900" width="60" height="30" as="geometry" />
+        <mxCell id="1TTIZwABEvc7k5qjsR-b-21" value="生命周期服务（聚合）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-96" y="8900" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TTIZwABEvc7k5qjsR-b-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1TTIZwABEvc7k5qjsR-b-22" target="1TTIZwABEvc7k5qjsR-b-27">
           <mxGeometry relative="1" as="geometry" />
