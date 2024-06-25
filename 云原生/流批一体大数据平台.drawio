@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T09:11:53.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jqJ6bcMDk7IQWOQFuS6g" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T09:12:29.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mPF8Zh8a3lIj_7T2k3Vj" version="24.6.2" type="github">
   <diagram name="第 1 页" id="HKGODpCxfkMQ4LzSjgvv">
     <mxGraphModel dx="819" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,16 +113,16 @@
           <mxGeometry x="625" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMy1A2MRM-kkTs6elO1o-47" value="StarRocks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="125" y="542" width="60" height="30" as="geometry" />
+          <mxGeometry x="119" y="542" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMy1A2MRM-kkTs6elO1o-48" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="214" y="542" width="60" height="30" as="geometry" />
+          <mxGeometry x="198" y="542" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMy1A2MRM-kkTs6elO1o-49" value="Pg" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="320" y="542" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="542" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMy1A2MRM-kkTs6elO1o-50" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="432" y="542" width="60" height="30" as="geometry" />
+          <mxGeometry x="452" y="542" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EMy1A2MRM-kkTs6elO1o-51" value="Clickhouse" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="540" y="542" width="60" height="30" as="geometry" />
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="CSS75EGZJ9T9D-MVBC-j-1" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;Dolphin Scheduler&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
           <mxGeometry x="110" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CSS75EGZJ9T9D-MVBC-j-2" value="Doris" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="369" y="542" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
