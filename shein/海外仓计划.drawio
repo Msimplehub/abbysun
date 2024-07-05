@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T12:28:11.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZNTFK1iDfl3LlDeap7bG" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T13:26:05.035Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1XnHeHefShpxIbQ8Ya7G" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Jsab-jnm6UaxY9wLTbV5">
     <mxGraphModel dx="1060" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,6 +154,52 @@
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据流流向&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="395" y="1088" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-45" target="QJWTps0vCfm2FNkZpQqd-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-45" value="&lt;b&gt;海外仓数据同步&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-46" target="QJWTps0vCfm2FNkZpQqd-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-46" value="&lt;b&gt;wms 接口获取数据&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1265" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-48" target="QJWTps0vCfm2FNkZpQqd-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-48" value="&lt;b&gt;数据清洗&lt;/b&gt;&lt;div&gt;1.清洗佛山仓数据&lt;br&gt;&lt;div&gt;2.字段不为空（8 个）&lt;/div&gt;&lt;div&gt;3.字段数据重复（8 个）&lt;/div&gt;&lt;div&gt;4.字段数据长度核对&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1340" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-50" value="&lt;div&gt;&lt;b&gt;数据模型转化&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1.加载已有数据模型&lt;/div&gt;&lt;div&gt;2.转化成 ipm仓库模型&lt;/div&gt;&lt;div&gt;2.业务模型规则校验&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1570" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404.44" y="1490" as="sourcePoint" />
+            <mxPoint x="350" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-54" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QJWTps0vCfm2FNkZpQqd-53">
+          <mxGeometry x="-0.0088" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-52" target="QJWTps0vCfm2FNkZpQqd-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-57" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QJWTps0vCfm2FNkZpQqd-56">
+          <mxGeometry x="-0.3913" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-52" value="主仓是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1464" width="89" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-55" value="&lt;div&gt;&lt;b&gt;数据模型转化&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1.转化成 ipm仓库模型&lt;/div&gt;&lt;div&gt;2.业务模型规则校验&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="1570" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
