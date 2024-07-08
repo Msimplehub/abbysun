@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T02:45:30.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2keK9zHs9XvytV_INurO" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T10:04:25.996Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9WAKK60vK7F5cNH_cNMh" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Jsab-jnm6UaxY9wLTbV5">
-    <mxGraphModel dx="1060" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,13 +176,13 @@
         <mxCell id="QJWTps0vCfm2FNkZpQqd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-50" target="QJWTps0vCfm2FNkZpQqd-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QJWTps0vCfm2FNkZpQqd-50" value="&lt;div&gt;&lt;b&gt;数据模型转化&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1.加载已有数据模型&lt;/div&gt;&lt;div&gt;2.转化成 ipm仓库模型&lt;/div&gt;&lt;div&gt;3.业务模型规则校验&lt;/div&gt;&lt;div&gt;4.判断是否更新&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1690" width="145" height="100" as="geometry" />
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-50" value="&lt;div&gt;&lt;b&gt;数据模型转化&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.加载已有数据模型&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.转化成 ipm仓库模型&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3.业务模型规则校验&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-1.历史存在&amp;amp;当前存在，判断是否更新&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-2.历史存在&amp;amp;当前不存在，失效子仓&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-3.历史不存在新增&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1650" width="155" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QJWTps0vCfm2FNkZpQqd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-52">
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-52" target="QJWTps0vCfm2FNkZpQqd-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="404.44" y="1610" as="sourcePoint" />
-            <mxPoint x="350" y="1690" as="targetPoint" />
+            <mxPoint x="350" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-54" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QJWTps0vCfm2FNkZpQqd-53">
@@ -206,7 +206,7 @@
             <mxPoint x="460" y="1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QJWTps0vCfm2FNkZpQqd-55" value="&lt;div&gt;&lt;b&gt;数据模型转化&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1.转化成 ipm仓库模型&lt;/div&gt;&lt;div&gt;2.业务模型规则校验&lt;/div&gt;&lt;div&gt;3.判断是否更新&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-55" value="&lt;div&gt;&lt;b&gt;数据模型转化&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.转化成 ipm仓库模型&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.业务模型规则校验&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3.历史不存在，新增仓/子仓&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="514" y="1690" width="146" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-58" target="QJWTps0vCfm2FNkZpQqd-70">
