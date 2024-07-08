@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T10:08:28.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WO6V9wrpkwjkyDtU8FpI" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T10:09:19.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Xu5WCv5DrXNAVmUjcODh" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Jsab-jnm6UaxY9wLTbV5">
     <mxGraphModel dx="1793" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
         <mxCell id="QJWTps0vCfm2FNkZpQqd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-48" target="QJWTps0vCfm2FNkZpQqd-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QJWTps0vCfm2FNkZpQqd-48" value="&lt;b&gt;数据清洗&lt;/b&gt;&lt;div&gt;1.清洗佛山仓数据&lt;br&gt;&lt;div&gt;2.字段不为空（8 个）&lt;/div&gt;&lt;div&gt;3.字段数据重复（8 个）&lt;/div&gt;&lt;div&gt;4.字段数据长度核对&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-48" value="&lt;b&gt;数据清洗&lt;/b&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.清洗佛山仓数据&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.字段不为空（8 个）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3.字段数据重复（8 个）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4.字段数据长度核对&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="1460" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-50" target="QJWTps0vCfm2FNkZpQqd-58">
@@ -221,8 +221,8 @@
         <mxCell id="QJWTps0vCfm2FNkZpQqd-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-58" target="QJWTps0vCfm2FNkZpQqd-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QJWTps0vCfm2FNkZpQqd-58" value="&lt;b&gt;数据持久化&lt;/b&gt;&lt;div&gt;1.主仓模型维度&lt;/div&gt;&lt;div&gt;2.新增不存在的数据&lt;/div&gt;&lt;div&gt;3.更新已存在且变更的数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="2020" width="125" height="90" as="geometry" />
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-58" value="&lt;b&gt;数据持久化&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.主仓模型维度&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.新增不存在的数据&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3.更新已存在且变更的数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="2020" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-61" value="如果A首次同步时，数据格式正确&lt;div&gt;第二次格式错误（null，0），过滤处理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;align=left;" vertex="1" parent="1">
           <mxGeometry x="550" y="1320" width="190" height="90" as="geometry" />
