@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T01:53:39.285Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="PDPubUT6HP0GJVl_kt3O" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T02:00:35.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yKlqiEkAIxHFkc8-a6iU" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Jsab-jnm6UaxY9wLTbV5">
     <mxGraphModel dx="1060" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,6 +211,9 @@
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-58" value="&lt;b&gt;数据持久化&lt;/b&gt;&lt;div&gt;1.主仓模型维度&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-61" value="如果A首次同步时，数据格式正确&lt;div&gt;第二次格式错误（null，0），是否需要改变？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1320" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
