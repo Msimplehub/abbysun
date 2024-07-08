@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T10:09:19.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Xu5WCv5DrXNAVmUjcODh" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T10:14:39.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-ZtKxRXNuZXseiCQBaUV" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Jsab-jnm6UaxY9wLTbV5">
-    <mxGraphModel dx="1793" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
         <mxCell id="QJWTps0vCfm2FNkZpQqd-28" value="WMS 海外仓" style="html=1;whiteSpace=wrap;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="140" y="910" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QJWTps0vCfm2FNkZpQqd-29" value="WMS 海外仓" style="html=1;whiteSpace=wrap;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-29" value="IPM 海外仓" style="html=1;whiteSpace=wrap;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="349" y="910" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-30" value="IPM 预设资料" style="html=1;whiteSpace=wrap;fontStyle=1;fontSize=14;" vertex="1" parent="1">
