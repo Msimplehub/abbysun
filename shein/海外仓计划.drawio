@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T01:15:24.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="eX1WcAUDNMAJGzWEh1ld" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T01:16:06.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="l8hk3BmrtxZ-6EmfxObo" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Jsab-jnm6UaxY9wLTbV5">
-    <mxGraphModel dx="1347" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2902" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
         <mxCell id="QJWTps0vCfm2FNkZpQqd-72" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="2290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QJWTps0vCfm2FNkZpQqd-75" value="成功条数的计算规则：只算新增" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-75" value="成功条数的计算规则：子仓维度&amp;amp;只算新增" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="570" y="2260" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-76" target="QJWTps0vCfm2FNkZpQqd-58">
