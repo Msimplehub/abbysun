@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T14:31:44.951Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zV01jXt4fDR7n8Aakn-l" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T01:14:13.232Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ufSMwWUE8twny0djvILk" version="24.6.4" type="github">
   <diagram name="第 1 页" id="Jsab-jnm6UaxY9wLTbV5">
     <mxGraphModel dx="1347" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
         <mxCell id="QJWTps0vCfm2FNkZpQqd-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-76" target="QJWTps0vCfm2FNkZpQqd-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QJWTps0vCfm2FNkZpQqd-76" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;业务模型规则校验&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-1.历史存在&amp;amp;当前存在，判断是否更新&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-2.历史存在&amp;amp;当前不存在，失效子仓&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-3.历史不存在新增&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QJWTps0vCfm2FNkZpQqd-76" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;业务模型规则校验&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-1.快照版存在&amp;amp;最新版存在，判断是否更新&amp;amp;状态变更&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-2.快照版存在&amp;amp;最新版不存在，失效子仓&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3-3.快照版不存在新增（仓-子仓）&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="1890" width="215" height="110" as="geometry" />
         </mxCell>
         <mxCell id="QJWTps0vCfm2FNkZpQqd-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJWTps0vCfm2FNkZpQqd-78" target="QJWTps0vCfm2FNkZpQqd-65">
