@@ -218,7 +218,7 @@
           <mxGeometry x="220" y="760" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="ORa2LLu_vDoPb8wGNu_X-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontStyle=1" vertex="1" parent="ORa2LLu_vDoPb8wGNu_X-36">
-          <mxGeometry x="47" y="80" width="10" height="130" as="geometry" />
+          <mxGeometry x="47" y="80" width="10" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ORa2LLu_vDoPb8wGNu_X-54" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontStyle=1" vertex="1" parent="ORa2LLu_vDoPb8wGNu_X-36">
           <mxGeometry x="47" y="290" width="10" height="60" as="geometry" />
@@ -400,7 +400,7 @@
         <mxCell id="ORa2LLu_vDoPb8wGNu_X-89" value="&lt;b&gt;数据存储：Mysql&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="287" y="1420" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ORa2LLu_vDoPb8wGNu_X-92" value="触发大数据任务计算（带参数）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="ORa2LLu_vDoPb8wGNu_X-91" parent="1" source="ORa2LLu_vDoPb8wGNu_X-67">
+        <mxCell id="ORa2LLu_vDoPb8wGNu_X-92" value="第一种：触发大数据任务计算（带参数）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="ORa2LLu_vDoPb8wGNu_X-91" parent="1" source="ORa2LLu_vDoPb8wGNu_X-67">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="632" y="1615" as="sourcePoint" />
           </mxGeometry>
@@ -414,7 +414,7 @@
         <mxCell id="ORa2LLu_vDoPb8wGNu_X-95" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="702" y="1710" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ORa2LLu_vDoPb8wGNu_X-96" value="触发OLAP计算（带参数）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" target="ORa2LLu_vDoPb8wGNu_X-95">
+        <mxCell id="ORa2LLu_vDoPb8wGNu_X-96" value="第二种：触发OLAP计算（带参数）" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" target="ORa2LLu_vDoPb8wGNu_X-95">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="1715" as="sourcePoint" />
           </mxGeometry>
