@@ -362,7 +362,7 @@
             <mxPoint x="1270" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-175" value="10 月" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-175" value="10 月" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="434" y="1960" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-178" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Lg2WKmgW3IOxMLWWxmQ5-175" target="Lg2WKmgW3IOxMLWWxmQ5-177">
@@ -371,7 +371,7 @@
             <mxPoint x="1270" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-177" value="11 月" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-177" value="11 月" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="695" y="1960" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-180" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lg2WKmgW3IOxMLWWxmQ5-177" target="Lg2WKmgW3IOxMLWWxmQ5-179">
@@ -380,10 +380,10 @@
             <mxPoint x="1400" y="1990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-179" value="12 月" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-179" value="12 月" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1960" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-182" value="9 月" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-182" value="9 月" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="1960" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-183" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -392,58 +392,58 @@
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-184" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="696" y="100" width="49" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-185" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-185" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="640.5" y="1740" width="40" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-186" value="模型管理一期&lt;div&gt;2024-10-30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="1745" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-187" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-187" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="950.5" y="1860" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-188" value="&lt;div&gt;发货仓销售出库件数（ipm）&lt;/div&gt;&lt;div&gt;2024-11-10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="799" y="1865" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-189" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-189" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="800.5" y="1680" width="40" height="303" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-190" value="&lt;div&gt;海外仓二期数据统计（ipm）&lt;/div&gt;&lt;div&gt;2024-11-5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="1678" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-191" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-191" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="380.5" y="1740" width="40" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-192" value="&lt;div&gt;备货参数（dms）&lt;/div&gt;&lt;div&gt;2024-9-30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="1745" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-193" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-193" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="530.5" y="1850" width="40" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-194" value="订单产能移除量（dms）&lt;div&gt;2024-10-10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-194" value="订单产能移除量（dms）&lt;div&gt;2024-10-10&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="405" y="1853" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-195" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-195" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="990.5" y="1750" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-196" value="&lt;div&gt;7 日销量任务（dms）&lt;/div&gt;&lt;div&gt;2024-11-15&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="860" y="1755" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-197" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;direction=west;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-197" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;direction=west;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="750.5" y="1990" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-198" value="发货仓销售出库对比（ipm）&lt;div&gt;需求上线时间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-198" value="发货仓销售出库对比（ipm）&lt;div&gt;需求上线时间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="598" y="2093" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-199" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;direction=west;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-199" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;direction=west;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="910.5" y="1990" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-200" value="备货销量预估（ipm）&lt;div&gt;需求上线时间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-200" value="备货销量预估（ipm）&lt;div&gt;需求上线时间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="2093" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-201" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-201" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1290.5" y="1860" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-202" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-202" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1350.5" y="1750" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-203" value="物流费用预估（ipm）&lt;div&gt;2024-12-30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -452,13 +452,13 @@
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-204" value="采购运费预估（ipm）&lt;div&gt;2024-12-25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1176" y="1863" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-206" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-206" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1170.5" y="1710" width="40" height="270" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-207" value="&lt;div&gt;数据资产&lt;/div&gt;&lt;div&gt;2024-12-15&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1713" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-208" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-208" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1050.5" y="1680" width="40" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-209" value="模型监控&lt;div&gt;2024-11-30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
