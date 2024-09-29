@@ -431,14 +431,14 @@
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-197" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;direction=west;" vertex="1" parent="1">
           <mxGeometry x="750.5" y="1990" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-198" value="发货仓销售出库对比&lt;div&gt;需求上线时间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="625" y="2093" width="130" height="40" as="geometry" />
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-198" value="发货仓销售出库对比（ipm）&lt;div&gt;需求上线时间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="598" y="2093" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-199" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;direction=west;" vertex="1" parent="1">
           <mxGeometry x="910.5" y="1990" width="40" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-200" value="备货销量预估&lt;div&gt;需求上线时间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="2093" width="100" height="40" as="geometry" />
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-200" value="备货销量预估（ipm）&lt;div&gt;需求上线时间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="2093" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-201" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
           <mxGeometry x="1290.5" y="1860" width="40" height="120" as="geometry" />
@@ -446,11 +446,11 @@
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-202" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
           <mxGeometry x="1350.5" y="1750" width="40" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-203" value="物流费用预估&lt;div&gt;2024-12-30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1753" width="100" height="40" as="geometry" />
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-203" value="物流费用预估（ipm）&lt;div&gt;2024-12-30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1234" y="1753" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-204" value="采购运费预估&lt;div&gt;2024-12-25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1863" width="100" height="40" as="geometry" />
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-204" value="采购运费预估（ipm）&lt;div&gt;2024-12-25&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1176" y="1863" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-206" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
           <mxGeometry x="1170.5" y="1710" width="40" height="270" as="geometry" />
