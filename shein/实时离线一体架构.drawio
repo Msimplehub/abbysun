@@ -407,7 +407,7 @@
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-189" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
           <mxGeometry x="800.5" y="1680" width="40" height="303" as="geometry" />
         </mxCell>
-        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-190" value="&lt;div&gt;海外仓二期数据统计（ipm）&lt;/div&gt;&lt;div&gt;2024-10-30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-190" value="&lt;div&gt;海外仓二期数据统计（ipm）&lt;/div&gt;&lt;div&gt;2024-11-5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="1678" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-191" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" vertex="1" parent="1">
