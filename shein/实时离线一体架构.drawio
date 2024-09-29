@@ -464,6 +464,15 @@
         <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-209" value="模型监控&lt;div&gt;2024-11-30&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="980" y="1683" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-210" value="基础建设" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1713" width="97" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-211" value="IPM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1763" width="97" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Lg2WKmgW3IOxMLWWxmQ5-212" value="DMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1813" width="97" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
