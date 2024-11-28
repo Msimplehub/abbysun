@@ -166,7 +166,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-53" value="计算维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="500" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-56" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-56" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="490" y="500" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-61" value="使用业务维度+时间维度，组成计算维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
@@ -196,7 +196,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-69" value="计算维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="650" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-70" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-70" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="490" y="650" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-71" value="零点累计待处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
