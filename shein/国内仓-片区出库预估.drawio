@@ -356,7 +356,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-130" value="sum(Do)/sum(流入件数)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1290" y="970" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-131" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;片区出库计划-推荐值占比&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-131" value="&lt;span&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;片区出库计划-推荐值占比&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-130" y="20" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-132" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
@@ -437,7 +437,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-158" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1020" y="1481" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-276" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-159" target="ReEDewX-kHqf-GcDKaUq-204">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-276" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-159" target="ReEDewX-kHqf-GcDKaUq-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-159" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -545,13 +545,13 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-195" value="计算维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="1921" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-325" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-197" target="ReEDewX-kHqf-GcDKaUq-305">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-325" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-197" target="ReEDewX-kHqf-GcDKaUq-305">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-197" value="零点累计待处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="910" y="1921" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-326" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-198" target="ReEDewX-kHqf-GcDKaUq-305">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-326" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-198" target="ReEDewX-kHqf-GcDKaUq-305">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-198" value="实际打包件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -596,7 +596,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-212" value="数据组织" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1401" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-248" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;片区出库计划-推荐值占比&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-248" value="&lt;span&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;片区出库计划-推荐值占比&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-130" y="1291" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-250" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
@@ -605,7 +605,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-251" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1660" y="1551" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-296" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-255" target="ReEDewX-kHqf-GcDKaUq-295">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-296" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-255" target="ReEDewX-kHqf-GcDKaUq-295">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-255" value="合理积压比例" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -698,7 +698,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-287" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="1430" y="1551" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-289" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-288">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-289" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-288">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1410" y="1920" as="targetPoint" />
           </mxGeometry>
@@ -709,16 +709,16 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-290" value="取值标识=历史预估｜当前预估：流入件数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1410" y="1661" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-292" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-292" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="1968" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-293" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-293" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1140" y="1968" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-294" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1430" y="1921" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-327" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-295">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-327" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-295">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="2130" as="targetPoint" />
           </mxGeometry>
@@ -759,16 +759,16 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-308" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="960" y="2131" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-361" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-309" target="ReEDewX-kHqf-GcDKaUq-359">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-361" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-309" target="ReEDewX-kHqf-GcDKaUq-359">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-364" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-309" target="ReEDewX-kHqf-GcDKaUq-343">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-364" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-309" target="ReEDewX-kHqf-GcDKaUq-343">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-309" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1380" y="2131" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-362" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-310">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-362" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-310">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1460" y="2360" as="targetPoint" />
           </mxGeometry>
@@ -776,7 +776,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-310" value="DO.." style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1720" y="2131" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-365" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-311">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-365" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-311">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1795" y="2360" as="targetPoint" />
           </mxGeometry>
@@ -805,10 +805,10 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-318" value="园区" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="2131" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-319" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-319" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="2168" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-320" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-320" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1140" y="2168" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-321" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -817,7 +817,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-322" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1670" y="2131" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-329" value="系统日积压量 = 零点累计待处理量 - 实际打包件数 * 合理积压比例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-329" value="系统日积压量 = 零点累计待处理量 - 实际打包件数 * 合理积压比例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="855" y="2038" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-330" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
@@ -853,7 +853,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-340" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="960" y="2361" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-341" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-341" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1380" y="2361" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-342" value="D6" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -883,10 +883,10 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-350" value="园区" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="2361" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-351" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-351" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="2398" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-352" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-352" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1140" y="2398" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-355" value="D4" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -907,10 +907,10 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-360" value="D1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1480" y="2361" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-363" value="D0流入打包量 = 流入件数 * Rate(D0)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-363" value="D0流入打包量 = 流入件数 * Rate(D0)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1340" y="2278" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-370" value="D7流入打包量 = 流入件数 * Rate(D7)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-370" value="D7流入打包量 = 流入件数 * Rate(D7)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1630" y="2288" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-371" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
@@ -946,7 +946,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-381" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="960" y="2551" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-382" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-382" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1380" y="2551" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-385" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -970,10 +970,10 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-391" value="园区" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="490" y="2551" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-392" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-392" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="2588" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-393" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-393" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1140" y="2588" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-398" value="流入打包量：DO" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -1015,11 +1015,80 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-411" value="日期+6" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="590" y="2791" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-435" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ReEDewX-kHqf-GcDKaUq-413" target="ReEDewX-kHqf-GcDKaUq-433">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-413" value="流入打包量：D7" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1430" y="2831" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-414" value="日期+7" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="590" y="2831" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-415" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-416" value="wms 仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-417" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-418" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="290" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-419" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-420" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-421" value="计算维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-422" value="系统日积压量" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="910" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-423" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1150" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-424" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="690" y="3101" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-425" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="960" y="3101" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-426" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1380" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-427" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1200" y="3101" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-428" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="540" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-429" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-430" value="取值标识" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-431" value="片区" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-432" value="园区" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="3101" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-433" value="流入打包量" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1430" y="3101" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-434" value="计算维度；日期合并" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="3101" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-436" value="sum(流入打包量) group by 日期+业务维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1465" y="2988" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-437" value="系统日积压量 +&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1375" y="2988" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
