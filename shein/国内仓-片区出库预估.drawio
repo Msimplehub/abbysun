@@ -1,9 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
   <diagram name="第 1 页" id="XMdXhfICt-A3853vuRKI">
-    <mxGraphModel>
+    <mxGraphModel dx="1908" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-1" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-2" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-3" value="wms 仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="240" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-4" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="290" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-5" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-6" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-7" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-8" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-9" value="园区出库预估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-10" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="810" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-11" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="860" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-13" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="910" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-14" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="960" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-15" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-16" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-17" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-18" value="BI-流入打包节奏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-19" value="DO.." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-20" value="D7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-21" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="730" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-22" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="780" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-23" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="830" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-24" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="880" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-25" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="930" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-26" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="980" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-27" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-28" value="BI-实际流入件数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-29" value="零点累计待处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-30" value="实际打包件数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="210" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-31" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-32" value="时间维表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
