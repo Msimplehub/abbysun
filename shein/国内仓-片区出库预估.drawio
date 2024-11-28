@@ -1085,10 +1085,10 @@
           <mxGeometry x="-120" y="3101" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-436" value="sum(流入打包量) group by 日期+业务维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1465" y="2988" width="250" height="30" as="geometry" />
+          <mxGeometry x="1545" y="2988" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-437" value="系统日积压量 +&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1375" y="2988" width="110" height="30" as="geometry" />
+          <mxGeometry x="1455" y="2988" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
