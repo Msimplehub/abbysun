@@ -801,8 +801,8 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-322" value="合理积压比例" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="2131" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-328" value="零点累计待处理量 - 实际打包件数*合理积压比例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="2038" width="280" height="30" as="geometry" />
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-329" value="系统日积压量 = 零点累计待处理量 - 实际打包件数 * 合理积压比例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="2038" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
