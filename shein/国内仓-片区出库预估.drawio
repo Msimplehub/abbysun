@@ -706,7 +706,7 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-288" value="预估件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1480" y="1551" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ReEDewX-kHqf-GcDKaUq-290" value="取值标识=历史预估｜当前预估：流入件数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ReEDewX-kHqf-GcDKaUq-290" value="取值标识=&lt;font color=&quot;#ff0000&quot;&gt;历史预估&lt;/font&gt;｜当前预估：流入件数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1410" y="1661" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ReEDewX-kHqf-GcDKaUq-292" value="&lt;font color=&quot;#ff0000&quot;&gt;系统日&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
