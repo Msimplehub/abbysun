@@ -1093,6 +1093,9 @@
         <mxCell id="VWihGhf5ncspjBtOuIfc-51" value="BI-实际值：已经发生的时间，取实际值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;fontColor=#FFB570;" vertex="1" parent="1">
           <mxGeometry x="1540" y="1456" width="330" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="VWihGhf5ncspjBtOuIfc-67" value="倒扣逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="1108" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
