@@ -1084,14 +1084,14 @@
         <mxCell id="ReEDewX-kHqf-GcDKaUq-440" value="先国家后市场" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="1310" y="1778" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VWihGhf5ncspjBtOuIfc-49" value="当前预估：页面选择的版本数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;fontColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="1575" y="1396" width="280" height="40" as="geometry" />
+        <mxCell id="VWihGhf5ncspjBtOuIfc-49" value="当前预估：页面选择的版本数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="1396" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VWihGhf5ncspjBtOuIfc-50" value="历史预估：页面选择版本之前 &amp;amp; 未删除&amp;amp;未终止" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;fontColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="1575" y="1426" width="400" height="40" as="geometry" />
+        <mxCell id="VWihGhf5ncspjBtOuIfc-50" value="历史预估：页面选择版本之前 &amp;amp; 未删除&amp;amp;未终止" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="1426" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VWihGhf5ncspjBtOuIfc-51" value="BI-实际值：已经发生的时间，取实际值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;fontColor=#FFCCE6;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1456" width="330" height="40" as="geometry" />
+        <mxCell id="VWihGhf5ncspjBtOuIfc-51" value="BI-实际值：已经发生的时间，取实际值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;fontColor=#FFB570;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="1456" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
