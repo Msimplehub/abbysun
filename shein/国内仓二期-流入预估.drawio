@@ -1,366 +1,80 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="第 1 页" id="A9ia2CLvwI-rA0mWm02F">
-    <mxGraphModel dx="2261" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2099" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-1" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-1" value="品牌" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-2" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-2" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-3" value="wms 仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-3" value="货品来源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="130" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-5" target="Rc2jb7AlEDWzBGGgiRTG-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-5" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-5" value="支付日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="130" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-6" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-7" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-8" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-9" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="490" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-10" value="园区出库预估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-10" value="BI-客选占比实际值" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-11" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1070" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-12" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1120" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-13" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1170" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-14" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1220" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-15" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1270" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-16" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1320" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-17" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1370" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-18" value="BI-流入打包节奏" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1020" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-20" target="Rc2jb7AlEDWzBGGgiRTG-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-20" value="DO.." style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1420" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-21" value="D7" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1470" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-22" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-23" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="820" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-24" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="870" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-25" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="920" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-26" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-27" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1020" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-28" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1070" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-29" value="BI-实际流入件数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="720" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-31" target="Rc2jb7AlEDWzBGGgiRTG-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-31" value="零点累计待处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1120" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-33" target="Rc2jb7AlEDWzBGGgiRTG-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-33" value="实际打包件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1170" y="210" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-35" target="Rc2jb7AlEDWzBGGgiRTG-55">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-35" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="620" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-36" value="时间维表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="130" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-37" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-38" value="wms 仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-39" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="340" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-41" target="Rc2jb7AlEDWzBGGgiRTG-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-41" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="340" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-42" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-43" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="340" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-44" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-45" value="园区出库预估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="340" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-46" value="提取业务维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="238" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-47" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-48" value="wms 仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-49" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-50" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-51" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-52" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-53" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-54" value="计算维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-55" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="490" y="500" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-56" value="使用业务维度+时间维度，组成计算维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="430" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-57" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-58" value="wms 仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-59" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-60" value="国家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-61" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-62" value="计划物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-63" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-64" value="计算维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-65" value="日期" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="490" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-66" value="零点累计待处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="910" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-67" value="实际打包件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1150" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-69" target="Rc2jb7AlEDWzBGGgiRTG-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-69" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="540" y="650" width="370" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-70" value="&lt;font color=&quot;#ff0000&quot;&gt;T-1：零点累计待处理量 先国家后市场 其次 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="820" y="505" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-71" value="&lt;font color=&quot;#ff0000&quot;&gt;T:实际打包节奏&amp;nbsp; 先国家后市场 其次 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1040" y="538" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-72" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="960" y="650" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-73" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1380" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-74" value="DO.." style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1430" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-75" value="D7" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1480" y="650" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-76" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1200" y="650" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-77" value="&lt;font color=&quot;#ff0000&quot;&gt;T：流入件数，D0..D7.&amp;nbsp; &amp;nbsp;先国家后市场 其次 0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1315" y="480" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-78" value="计算维度：宽表" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="650" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-79" value="业务+时间维度" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="500" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-80" value="业务维度" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rc2jb7AlEDWzBGGgiRTG-81" value="数据组织" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-120" y="130" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-82" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-83" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="440" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-84" value="计算维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-85" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="490" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-86" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-87" target="Rc2jb7AlEDWzBGGgiRTG-106">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-87" value="零点累计待处理" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="910" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-89">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1175" y="1060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-89" value="实际打包件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1150" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-90" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="540" y="860" width="370" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-91" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="960" y="860" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-93" target="Rc2jb7AlEDWzBGGgiRTG-110">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-93" value="流入件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1380" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-94" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="Rc2jb7AlEDWzBGGgiRTG-95">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1440" y="1060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-95" value="DO.." style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1430" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-96" value="D7" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1480" y="860" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-97" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1200" y="860" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-98" value="聚合维度：宽表" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="860" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-99" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="860" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-100" value="&lt;font color=&quot;#ff0000&quot;&gt;数据聚合到 库存仓+渠道组 业务维度，数据 sum&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="720" y="768" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-101" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-102" value="渠道组" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-103" value="计算维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB570;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-104" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="490" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-105" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="910" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-106" value="合理积压比例" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-107" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="540" y="1060" width="370" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-108" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="960" y="1060" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-109" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-110" value="DO.." style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1430" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-111" value="D7" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1480" y="1060" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-112" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1060" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-113" value="聚合维度：宽表" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1060" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-114" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="1060" width="250" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-115" value="&lt;font color=&quot;#ff0000&quot;&gt;sum(零点累计待处理量)/sum(实际打包件数)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="925" y="970" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-116" value="&lt;font color=&quot;#ff0000&quot;&gt;sum(Do)/sum(流入件数)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1370" y="970" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Rc2jb7AlEDWzBGGgiRTG-117" value="&lt;span&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;流入预估-实际值计算&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-130" y="20" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-118" value="倒扣逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1465" y="1108" width="70" height="30" as="geometry" />
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-119" value="品牌" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-120" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-121" value="货品来源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="630" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-122" value="支付日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-123" value="支付方式" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="730" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-124" value="客选比例预估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-125" value="支付方式占比" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="780" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-126" value="发货占比" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-129" value="客选物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-132" value="支付件数" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-133" value="市场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="970" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-134" value="支付日期" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1020" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-135" value="客选物流类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1070" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-136" value="库存仓" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1120" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-137" value="合包类型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-138" value="BI-实际流入件数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="920" y="130" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rc2jb7AlEDWzBGGgiRTG-139" value="已流入商品数量" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1220" y="130" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
