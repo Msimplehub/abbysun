@@ -178,7 +178,7 @@
         <mxCell id="_G6n0hr4s4rwrHkxoq3B-98" value="维度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="760" y="190" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_G6n0hr4s4rwrHkxoq3B-99" value="衍生月份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_G6n0hr4s4rwrHkxoq3B-99" value="支付月份+0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="439" y="490" width="48" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_G6n0hr4s4rwrHkxoq3B-101" value="品牌" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
@@ -202,7 +202,7 @@
         <mxCell id="_G6n0hr4s4rwrHkxoq3B-107" value="支付月份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="389" y="530" width="48" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_G6n0hr4s4rwrHkxoq3B-108" value="衍生月份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_G6n0hr4s4rwrHkxoq3B-108" value="支付月份+1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="439" y="530" width="48" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_G6n0hr4s4rwrHkxoq3B-109" value="品牌" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
@@ -226,8 +226,11 @@
         <mxCell id="_G6n0hr4s4rwrHkxoq3B-115" value="支付月份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="389" y="570" width="48" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_G6n0hr4s4rwrHkxoq3B-116" value="衍生月份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="_G6n0hr4s4rwrHkxoq3B-116" value="支付月份+2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="439" y="570" width="48" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_G6n0hr4s4rwrHkxoq3B-117" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;配置：3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="805" y="238" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
