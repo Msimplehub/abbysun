@@ -1335,12 +1335,6 @@
         <mxCell id="_G6n0hr4s4rwrHkxoq3B-834" value="上月实际值" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1330" y="1500" width="48" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_G6n0hr4s4rwrHkxoq3B-837" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="1410" as="sourcePoint" />
-            <mxPoint x="790" y="1360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_G6n0hr4s4rwrHkxoq3B-838" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="1670" as="sourcePoint" />
