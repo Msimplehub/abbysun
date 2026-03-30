@@ -799,12 +799,12 @@
           <mxGeometry height="30" width="290" x="1730" y="1660" as="geometry" />
         </mxCell>
         <mxCell id="q4FDMracirB3OI4OUDdn-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;技术架构确定与磨合&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="1301" x="150" y="2010" as="geometry" />
+          <mxGeometry height="40" width="1021" x="430" y="2010" as="geometry" />
         </mxCell>
         <mxCell id="q4FDMracirB3OI4OUDdn-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;全面大数据化（工程与大数据结合）&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="261" x="1550" y="2010" as="geometry" />
         </mxCell>
-        <mxCell id="q4FDMracirB3OI4OUDdn-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;历史技术负债处理&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="q4FDMracirB3OI4OUDdn-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;历史技术负债处理&amp;amp;能力共享&lt;/b&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="261" x="1890" y="2010" as="geometry" />
         </mxCell>
       </root>
